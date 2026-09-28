@@ -1,0 +1,14 @@
+schema_version: 4
+workspace:
+  title: "MyGitNotes demo scenarios"
+  default_notebook: trpg-en
+notebooks:
+  - id: trpg-en
+    title: "Call of Cthulhu session prep"
+    root: trpg-en
+    default_view: kanban
+    statuses:
+      - { name: "reference", color: gray }
+      - { name: "hidden", color: purple }
+      - { name: "revealed", color: amber }
+      - { name: "resolved", color: green }
