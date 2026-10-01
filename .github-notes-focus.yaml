@@ -1,0 +1,31 @@
+version: 2
+focuses:
+  - id: trpg-en-table
+    notebookId: trpg-en
+    name: Session table
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: trpg-en/scenario-outline.md }
+        - kind: split
+          id: s2
+          orientation: vertical
+          children:
+            - kind: pane
+              id: p2
+              tabs:
+                - { kind: note, path: trpg-en/npc-ambrose-vale.md }
+                - { kind: note, path: trpg-en/npc-marta-quill.md }
+            - kind: pane
+              id: p3
+              tabs:
+                - { kind: note, path: trpg-en/handouts.md }
+        - kind: pane
+          id: p4
+          tabs:
+            - { kind: note, path: trpg-en/map-gull-rock.md }
