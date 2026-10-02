@@ -12,3 +12,12 @@ notebooks:
       - { name: "hidden", color: purple }
       - { name: "revealed", color: amber }
       - { name: "resolved", color: green }
+  - id: trpg-zh-tw
+    title: "克蘇魯的呼喚：備團"
+    root: trpg-zh-tw
+    default_view: kanban
+    statuses:
+      - { name: "參考", color: gray }
+      - { name: "未揭露", color: purple }
+      - { name: "已揭露", color: amber }
+      - { name: "已解決", color: green }
