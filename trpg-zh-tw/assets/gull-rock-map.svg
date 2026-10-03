@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" role="img" aria-label="海鷗岩地圖">
+  <rect width="480" height="360" fill="#dbe7ef"/>
+  <path d="M0 40 Q60 20 120 40 T240 40 T360 40 T480 40" fill="none" stroke="#9fb7c6" stroke-width="2"/>
+  <path d="M0 330 Q60 310 120 330 T240 330 T360 330 T480 330" fill="none" stroke="#9fb7c6" stroke-width="2"/>
+  <path d="M110 190 Q120 110 210 90 Q310 70 360 130 Q400 190 340 250 Q270 310 180 280 Q100 260 110 190Z" fill="#c9bf9f" stroke="#6d6548" stroke-width="3"/>
+  <path d="M150 195 Q170 140 230 125 Q300 115 330 160 Q350 205 300 240 Q240 270 190 245 Q145 225 150 195Z" fill="#a7b58a" stroke="#6d7a52" stroke-width="2"/>
+  <rect x="268" y="150" width="26" height="26" fill="#f2efe4" stroke="#333" stroke-width="2"/>
+  <polygon points="268,150 281,128 294,150" fill="#a33"/>
+  <circle cx="281" cy="163" r="5" fill="#f5c542"/>
+  <rect x="195" y="205" width="40" height="22" fill="#8b6b4a" stroke="#333" stroke-width="2"/>
+  <path d="M360 190 L420 215" stroke="#6b4a2a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M236 216 Q258 200 270 178" stroke="#6d6548" stroke-width="3" stroke-dasharray="6 5" fill="none"/>
+  <path d="M294 170 Q330 195 355 192" stroke="#6d6548" stroke-width="3" stroke-dasharray="6 5" fill="none"/>
+  <path d="M130 205 l16 -12 l8 14 l-10 14 z" fill="#2f3a44"/>
+  <text x="281" y="118" font-family="Georgia,serif" font-size="14" text-anchor="middle" fill="#222">燈塔</text>
+  <text x="215" y="245" font-family="Georgia,serif" font-size="13" text-anchor="middle" fill="#222">守燈人小屋</text>
+  <text x="420" y="240" font-family="Georgia,serif" font-size="13" text-anchor="middle" fill="#222">碼頭</text>
+  <text x="78" y="214" font-family="Georgia,serif" font-size="13" text-anchor="middle" fill="#222">海蝕洞</text>
+  <text x="240" y="30" font-family="Georgia,serif" font-size="20" text-anchor="middle" fill="#222">海鷗岩</text>
+  <text x="440" y="345" font-family="Georgia,serif" font-size="11" text-anchor="end" fill="#444">北 ↑ · 示意圖，不按比例</text>
+</svg>
