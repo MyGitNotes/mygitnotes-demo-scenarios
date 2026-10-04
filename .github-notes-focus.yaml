@@ -29,3 +29,32 @@ focuses:
           id: p4
           tabs:
             - { kind: note, path: trpg-en/map-gull-rock.md }
+  - id: trpg-zh-tw-table
+    notebookId: trpg-zh-tw
+    name: 跑團桌面
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: trpg-zh-tw/scenario-outline.md }
+        - kind: split
+          id: s2
+          orientation: vertical
+          children:
+            - kind: pane
+              id: p2
+              tabs:
+                - { kind: note, path: trpg-zh-tw/npc-ambrose-vale.md }
+                - { kind: note, path: trpg-zh-tw/npc-marta-quill.md }
+            - kind: pane
+              id: p3
+              tabs:
+                - { kind: note, path: trpg-zh-tw/handouts.md }
+        - kind: pane
+          id: p4
+          tabs:
+            - { kind: note, path: trpg-zh-tw/map-gull-rock.md }
