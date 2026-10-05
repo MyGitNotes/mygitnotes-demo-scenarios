@@ -1,0 +1,9 @@
+versions:
+  - blob: 121bcc3c5a35408f1dcd93acf9c8842bcc5f0ed3
+    parent: 8afc38ca45075852cb98cd9967358ca21712f29a
+    authored: "2026-10-05T10:15:00+08:00"
+    sequence: 1
+    date: 2026.10.05
+    name: "v1: provider's draft"
+    note: "The draft exactly as Larkmoor sent it on October 5. Nothing edited."
+    created: "2026-10-05T02:15:00.000Z"
