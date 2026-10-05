@@ -21,3 +21,7 @@ notebooks:
       - { name: "未揭露", color: purple }
       - { name: "已揭露", color: amber }
       - { name: "已解決", color: green }
+  - id: contract-en
+    title: "Contract review"
+    root: contract-en
+    default_view: list
