@@ -25,3 +25,13 @@ notebooks:
     title: "Contract review"
     root: contract-en
     default_view: list
+  - id: pm-en
+    title: "Release management: Cubbyshelf v1.1"
+    root: pm-en
+    default_view: kanban
+    statuses:
+      - { name: "reference", color: gray }
+      - { name: "planned", color: purple }
+      - { name: "in progress", color: blue }
+      - { name: "blocked", color: red }
+      - { name: "done", color: green }
