@@ -25,6 +25,15 @@ notebooks:
     title: "Contract review"
     root: contract-en
     default_view: list
+  - id: designer-en
+    title: "Designer's notebook: brand identity"
+    root: designer-en
+    default_view: list
+    statuses:
+      - { name: "reference", color: gray }
+      - { name: "exploring", color: purple }
+      - { name: "in review", color: amber }
+      - { name: "approved", color: green }
   - id: pm-en
     title: "Release management: Cubbyshelf v1.1"
     root: pm-en
