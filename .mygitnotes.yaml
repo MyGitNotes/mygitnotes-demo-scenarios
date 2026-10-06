@@ -35,3 +35,13 @@ notebooks:
       - { name: "in progress", color: blue }
       - { name: "blocked", color: red }
       - { name: "done", color: green }
+  - id: pm-zh-tw
+    title: "版本發布管理：貨架小幫手 v1.1"
+    root: pm-zh-tw
+    default_view: kanban
+    statuses:
+      - { name: "參考", color: gray }
+      - { name: "待開始", color: purple }
+      - { name: "進行中", color: blue }
+      - { name: "被卡住", color: red }
+      - { name: "已完成", color: green }
