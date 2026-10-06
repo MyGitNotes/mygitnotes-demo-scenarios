@@ -20,6 +20,10 @@ status: working
 
 2.2 Invoices are payable within 60 days of the invoice date.
 
+:::comment[Reviewer: Priya Nandakumar]
+Our suppliers' standard is 30 days. Ask for 30; 60 days means we fund Larkmoor's cash flow for two months.
+:::
+
 2.3 The Provider may suspend the service after 90 days of non-payment.
 
 ## 3. Term and termination
@@ -28,13 +32,29 @@ status: working
 
 3.2 The agreement renews automatically for further 24-month terms unless either party gives notice at least 30 days before the term ends.
 
+:::comment[Reviewer: Priya Nandakumar]
+A 24-month auto-renewal with a 30-day window is easy to miss. Propose 12 months and a 90-day window.
+:::
+
 3.3 The Provider may terminate for convenience on 14 days' written notice.
+
+:::comment[Reviewer: Priya Nandakumar]
+One-sided. Fourteen days is not enough for us to find another carrier. Make it mutual and longer.
+:::
 
 ## 4. Liability
 
 4.1 The Provider's total liability under this agreement is limited to the fees paid in the month in which the claim arose.
 
+:::comment[Reviewer: Priya Nandakumar]
+One month of fees is $18,000, less than one day's goods for all twelve shops in peak season. Ask for twelve months.
+:::
+
 4.2 The Provider is not liable for spoiled or damaged goods.
+
+:::comment[Reviewer: Priya Nandakumar]
+This clause removes the whole point of using refrigerated vehicles. At minimum the Provider must answer for refrigeration failures.
+:::
 
 ## 5. Confidentiality
 
