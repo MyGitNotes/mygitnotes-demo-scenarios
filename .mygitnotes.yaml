@@ -34,6 +34,15 @@ notebooks:
       - { name: "exploring", color: purple }
       - { name: "in review", color: amber }
       - { name: "approved", color: green }
+  - id: designer-zh-tw
+    title: "設計師筆記本：品牌識別"
+    root: designer-zh-tw
+    default_view: list
+    statuses:
+      - { name: "參考", color: gray }
+      - { name: "探索中", color: purple }
+      - { name: "審閱中", color: amber }
+      - { name: "已定案", color: green }
   - id: pm-en
     title: "Release management: Cubbyshelf v1.1"
     root: pm-en
