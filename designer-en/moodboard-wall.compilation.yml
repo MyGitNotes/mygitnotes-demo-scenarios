@@ -1,0 +1,21 @@
+version: 1
+id: designer-en-moodboard
+title: Moodboard wall
+arrangement: lane
+size: thumbnail
+items:
+  - id: glaze
+    kind: asset
+    path: designer-en/assets/mood-glaze.webp
+  - id: flatlay
+    kind: asset
+    path: designer-en/assets/mood-flatlay.webp
+  - id: steam
+    kind: asset
+    path: designer-en/assets/mood-steam.webp
+  - id: doorway
+    kind: asset
+    path: designer-en/assets/mood-doorway.webp
+  - id: note
+    kind: note
+    path: designer-en/moodboard.md
