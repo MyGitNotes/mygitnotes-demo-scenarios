@@ -7,3 +7,11 @@ versions:
     name: "v1: provider's draft"
     note: "The draft exactly as Larkmoor sent it on October 5. Nothing edited."
     created: "2026-10-05T02:15:00.000Z"
+  - blob: 64dd38cd6935097ebacf82db55220ecac95f7ec0
+    parent: b2df3525bfadc56062ea397229b37c519c74d5a9
+    authored: "2026-10-08T16:40:00+08:00"
+    sequence: 2
+    date: 2026.10.08
+    name: "v2: Tallowfield redline"
+    note: "Payment 30 days, renewal 12 months, mutual termination, liability cap 12 months of fees."
+    created: "2026-10-08T08:40:00.000Z"

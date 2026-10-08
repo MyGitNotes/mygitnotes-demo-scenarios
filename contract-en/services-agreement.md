@@ -18,10 +18,10 @@ status: working
 
 2.1 The Client pays a fixed fee of $18,000 per month.
 
-2.2 Invoices are payable within 60 days of the invoice date.
+2.2 Invoices are payable within 30 days of the invoice date.
 
 :::comment[Reviewer: Priya Nandakumar]
-Our suppliers' standard is 30 days. Ask for 30; 60 days means we fund Larkmoor's cash flow for two months.
+Changed to 30 days in v2, which matches our other suppliers.
 :::
 
 2.3 The Provider may suspend the service after 90 days of non-payment.
@@ -30,30 +30,30 @@ Our suppliers' standard is 30 days. Ask for 30; 60 days means we fund Larkmoor's
 
 3.1 The initial term is 24 months from the effective date.
 
-3.2 The agreement renews automatically for further 24-month terms unless either party gives notice at least 30 days before the term ends.
+3.2 The agreement renews automatically for further 12-month terms unless either party gives notice at least 90 days before the term ends.
 
 :::comment[Reviewer: Priya Nandakumar]
-A 24-month auto-renewal with a 30-day window is easy to miss. Propose 12 months and a 90-day window.
+Renewal is now 12 months with a 90-day window. Larkmoor may say 90 days is long.
 :::
 
-3.3 The Provider may terminate for convenience on 14 days' written notice.
+3.3 Either party may terminate for convenience on 60 days' written notice.
 
 :::comment[Reviewer: Priya Nandakumar]
-One-sided. Fourteen days is not enough for us to find another carrier. Make it mutual and longer.
+Now mutual, with 60 days' notice so each side has time to find a replacement.
 :::
 
 ## 4. Liability
 
-4.1 The Provider's total liability under this agreement is limited to the fees paid in the month in which the claim arose.
+4.1 The Provider's total liability under this agreement is limited to the fees paid in the 12 months before the claim arose.
 
 :::comment[Reviewer: Priya Nandakumar]
-One month of fees is $18,000, less than one day's goods for all twelve shops in peak season. Ask for twelve months.
+Twelve months of fees is $216,000. Expect pushback here; this is the clause that matters most.
 :::
 
-4.2 The Provider is not liable for spoiled or damaged goods.
+4.2 The Provider is liable for goods spoiled because a refrigerated vehicle fails to hold the agreed temperature. It is not liable for damage the Client causes in loading.
 
 :::comment[Reviewer: Priya Nandakumar]
-This clause removes the whole point of using refrigerated vehicles. At minimum the Provider must answer for refrigeration failures.
+Refrigeration failures are now the Provider's risk, as the service promises. Loading damage stays with the Client.
 :::
 
 ## 5. Confidentiality
