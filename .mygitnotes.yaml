@@ -43,6 +43,14 @@ notebooks:
       - { name: "探索中", color: purple }
       - { name: "審閱中", color: amber }
       - { name: "已定案", color: green }
+  - id: portfolio-en
+    title: "Portfolio: case studies and series"
+    root: portfolio-en
+    default_view: list
+    statuses:
+      - { name: "draft", color: gray }
+      - { name: "polishing", color: amber }
+      - { name: "ready", color: green }
   - id: pm-en
     title: "Release management: Cubbyshelf v1.1"
     root: pm-en
