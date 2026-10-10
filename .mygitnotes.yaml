@@ -51,6 +51,14 @@ notebooks:
       - { name: "draft", color: gray }
       - { name: "polishing", color: amber }
       - { name: "ready", color: green }
+  - id: portfolio-zh-tw
+    title: "作品集：案例與系列作"
+    root: portfolio-zh-tw
+    default_view: list
+    statuses:
+      - { name: "草稿", color: gray }
+      - { name: "修飾中", color: amber }
+      - { name: "可發布", color: green }
   - id: pm-en
     title: "Release management: Cubbyshelf v1.1"
     root: pm-en
