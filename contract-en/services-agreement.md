@@ -21,39 +21,45 @@ status: working
 2.2 Invoices are payable within 30 days of the invoice date.
 
 :::comment[Reviewer: Priya Nandakumar]
-Changed to 30 days in v2, which matches our other suppliers.
+Resolved. 30 days stays. In return the Provider gets a late charge in 2.3, which we can accept.
 :::
 
-2.3 The Provider may suspend the service after 90 days of non-payment.
+2.3 Overdue amounts carry a late charge of 1.5% per month. The Provider may suspend the service after 90 days of non-payment.
 
 ## 3. Term and termination
 
 3.1 The initial term is 24 months from the effective date.
 
-3.2 The agreement renews automatically for further 12-month terms unless either party gives notice at least 90 days before the term ends.
+3.2 The agreement renews automatically for further 12-month terms unless either party gives notice at least 60 days before the term ends.
 
 :::comment[Reviewer: Priya Nandakumar]
-Renewal is now 12 months with a 90-day window. Larkmoor may say 90 days is long.
+Resolved. Larkmoor found 90 days too long; 60 days is still enough for us to rebid.
 :::
 
-3.3 Either party may terminate for convenience on 60 days' written notice.
+3.3 Either party may terminate for convenience on 45 days' written notice.
 
 :::comment[Reviewer: Priya Nandakumar]
-Now mutual, with 60 days' notice so each side has time to find a replacement.
+Resolved. Mutual stays. We moved from 60 to 45 days, which is the shortest period we can plan around.
 :::
 
 ## 4. Liability
 
-4.1 The Provider's total liability under this agreement is limited to the fees paid in the 12 months before the claim arose.
+4.1 The Provider's total liability under this agreement is limited to the greater of $108,000 and the fees paid or payable in the 6 months before the claim arose. The limit does not apply to liability for death or personal injury, fraud or willful misconduct.
 
 :::comment[Reviewer: Priya Nandakumar]
-Twelve months of fees is $216,000. Expect pushback here; this is the clause that matters most.
+Compromise: six months of fees is $108,000, and the cap never falls below that figure, even early in the term. Larkmoor would not go to twelve. Still open for the partner's sign-off.
 :::
 
-4.2 The Provider is liable for goods spoiled because a refrigerated vehicle fails to hold the agreed temperature. It is not liable for damage the Client causes in loading.
+4.2 The Provider is liable for goods spoiled because a refrigerated vehicle fails to hold the agreed temperature. It is not liable for damage the Client causes in loading. The Client notifies a spoilage claim in writing within 7 days of the delivery, and the Provider then supplies the vehicle's temperature log for that delivery.
 
 :::comment[Reviewer: Priya Nandakumar]
-Refrigeration failures are now the Provider's risk, as the service promises. Loading damage stays with the Client.
+Resolved. The Provider keeps the refrigeration risk. The 7-day claim window is the price of that.
+:::
+
+4.3 The Provider keeps cargo insurance of at least $1,000,000 for the whole term and shows the certificate on request.
+
+:::comment[Reviewer: Priya Nandakumar]
+New in v3. Insurance means the capped amount will actually be paid, so the certificate matters.
 :::
 
 ## 5. Confidentiality

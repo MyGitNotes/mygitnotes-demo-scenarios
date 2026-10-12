@@ -15,3 +15,11 @@ versions:
     name: "v2: Tallowfield redline"
     note: "Payment 30 days, renewal 12 months, mutual termination, liability cap 12 months of fees."
     created: "2026-10-08T08:40:00.000Z"
+  - blob: 30b15831e96599f5355d7b1ede19b0c08cf2b14d
+    parent: c1bd1bc384b53ea2150a175c31c8e347d485a041
+    authored: "2026-10-12T11:05:00+08:00"
+    sequence: 3
+    date: 2026.10.12
+    name: "v3: compromise"
+    note: "Signature version: 6-month cap, 45-day termination, late charge, insurance clause."
+    created: "2026-10-12T03:05:00.000Z"
