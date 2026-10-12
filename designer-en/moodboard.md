@@ -1,7 +1,7 @@
 ---
 title: Moodboard
 tags: [mossgate, moodboard]
-status: in review
+status: approved
 ---
 # Moodboard
 

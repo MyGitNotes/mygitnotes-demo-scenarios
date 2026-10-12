@@ -1,0 +1,18 @@
+version: 1
+id: designer-en-round1
+title: "Round 1: three marks"
+arrangement: lane
+size: medium
+items:
+  - id: mark-a
+    kind: asset
+    path: designer-en/assets/mark-a-gate-leaf.webp
+  - id: mark-b
+    kind: asset
+    path: designer-en/assets/mark-b-fern-seal.webp
+  - id: mark-c
+    kind: asset
+    path: designer-en/assets/mark-c-two-leaves.webp
+  - id: critique
+    kind: note
+    path: designer-en/round-1-directions.md
