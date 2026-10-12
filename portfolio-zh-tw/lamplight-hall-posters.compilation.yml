@@ -1,0 +1,18 @@
+version: 1
+id: portfolio-zh-tw-lamplight
+title: 燈火影廳海報
+arrangement: lane
+size: medium
+items:
+  - id: thumbnails
+    kind: asset
+    path: portfolio-zh-tw/assets/lamplight-thumbnails.webp
+  - id: hall
+    kind: asset
+    path: portfolio-zh-tw/assets/lamplight-poster-hall.webp
+  - id: beam
+    kind: asset
+    path: portfolio-zh-tw/assets/lamplight-poster-beam.webp
+  - id: reel
+    kind: asset
+    path: portfolio-zh-tw/assets/lamplight-poster-reel.webp
