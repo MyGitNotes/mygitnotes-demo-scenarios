@@ -22,11 +22,11 @@ A full RACI matrix is more paperwork than help for six people who sit in one roo
 
 | Area | Responsible | Accountable | Consulted | Informed |
 | --- | --- | --- | --- | --- |
-| Pickup message and reminder | @tomasz | @maren | @rhea, @leo | @kofi |
-| Code check at the counter | @ines | @maren | @tomasz, @rhea | @leo |
-| Test plan | @kofi | @maren | @ines, @tomasz | @leo |
-| Shop onboarding | @leo | @maren | @rhea | everyone |
-| Store release and rollout | @ines | @maren | @tomasz, @kofi | @leo |
+| [Pickup message and reminder](wp-notifications.md) | @tomasz | @maren | @rhea, @leo | @kofi |
+| [Code check at the counter](wp-pickup-code.md) | @ines | @maren | @tomasz, @rhea | @leo |
+| [Test plan](wp-qa.md) | @kofi | @maren | @ines, @tomasz | @leo |
+| [Shop onboarding](wp-onboarding.md) | @leo | @maren | @rhea | everyone |
+| [Store release and rollout](wp-store-release.md) | @ines | @maren | @tomasz, @kofi | @leo |
 
 ## How we decide
 

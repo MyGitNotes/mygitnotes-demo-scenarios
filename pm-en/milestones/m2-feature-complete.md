@@ -10,9 +10,9 @@ milestone: 2026-10-30
 
 ## Exit criteria
 
-- The pickup message is sent from the registered sender name, not the provider's test sender. See Pickup message and reminder.
+- The pickup message is sent from the registered sender name, not the provider's test sender. See [Pickup message and reminder](../wp-notifications.md).
 - The reminder job runs and the off switch for reminders works.
-- The counter screen accepts a code, shows the parcel and marks it collected, and a used code is refused: Code check at the counter.
+- The counter screen accepts a code, shows the parcel and marks it collected, and a used code is refused: [Code check at the counter](../wp-pickup-code.md).
 - The first beta build is in the TestFlight internal group and on the Android internal track.
 
 ## Watch

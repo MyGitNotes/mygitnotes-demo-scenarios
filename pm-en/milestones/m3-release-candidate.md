@@ -11,8 +11,8 @@ milestone: 2026-11-06
 ## Exit criteria
 
 - The regression suite has passed on the first beta build and every failure is fixed or has a written decision.
-- All three pilot shops have run the counter flow once with @leo and @kofi in the shop. See Shop onboarding.
-- The iOS build is submitted for review with *release manually* selected. Review usually takes a day or two, and the plan keeps three working days: see Store release and rollout.
+- All three pilot shops have run the counter flow once with @leo and @kofi in the shop. See [Shop onboarding](../wp-onboarding.md).
+- The iOS build is submitted for review with *release manually* selected. Review usually takes a day or two, and the plan keeps three working days: see [Store release and rollout](../wp-store-release.md).
 - The store text and screenshots are in place.
 
 ## Tasks
