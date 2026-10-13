@@ -1,0 +1,18 @@
+version: 1
+id: designer-zh-tw-round1
+title: 第一輪：三個標誌
+arrangement: lane
+size: medium
+items:
+  - id: mark-a
+    kind: asset
+    path: designer-zh-tw/assets/mark-a-gate-leaf.webp
+  - id: mark-b
+    kind: asset
+    path: designer-zh-tw/assets/mark-b-fern-seal.webp
+  - id: mark-c
+    kind: asset
+    path: designer-zh-tw/assets/mark-c-two-leaves.webp
+  - id: critique
+    kind: note
+    path: designer-zh-tw/round-1-directions.md
