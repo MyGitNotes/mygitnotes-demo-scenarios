@@ -17,7 +17,7 @@ milestone: 2026-10-16
 
 ## What happened
 
-Met on the day. Barcode scanning came back as a request from two shops during the week and was declined with the same reason as before: it would add a week of testing to a release that needs the message and the code first. SMS first was decided two days earlier, so the scope table could name the channel.
+Met on the day. Barcode scanning came back as a request from two shops during the week and was declined with the same reason as before: it would add a week of testing to a release that needs the message and the code first. [SMS first](../decisions/sms-first.md) was decided two days earlier, so the scope table could name the channel.
 
 ## Tasks
 

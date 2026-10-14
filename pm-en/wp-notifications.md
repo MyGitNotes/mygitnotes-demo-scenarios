@@ -7,7 +7,7 @@ status: in progress
 
 **Owner:** @tomasz. **Accountable:** @maren. The spec is Notifications.
 
-When a shopkeeper checks a parcel in, the neighbour gets an SMS within a minute that names the shop and carries a six-digit pickup code. If the parcel is still on the shelf after three days, one reminder follows. The first message cannot be turned off. Reminders can. The channel was decided on 14 October: SMS first.
+When a shopkeeper checks a parcel in, the neighbour gets an SMS within a minute that names the shop and carries a six-digit pickup code. If the parcel is still on the shelf after three days, one reminder follows. The first message cannot be turned off. Reminders can. The channel was decided on 14 October: [SMS first](decisions/sms-first.md).
 
 ## Done when
 
@@ -22,7 +22,7 @@ Planned. The registration of the sender name has a lead time, so it goes first, 
 ## Tasks
 
 - [ ] @tomasz Generate the six-digit pickup code, unique among waiting parcels ⏫ 🛫 2026-10-12 📅 2026-10-16
-- [ ] @maren @tomasz Pick the channel for the pickup message ⏫ 🛫 2026-10-12 📅 2026-10-14
+- [x] @maren @tomasz Pick the channel for the pickup message ⏫ 🛫 2026-10-12 📅 2026-10-14 ✅ 2026-10-14
 - [ ] @tomasz Open the account with the SMS provider and send a test message 🔼 🛫 2026-10-14 📅 2026-10-16
 - [ ] @rhea Write the message text with two shop owners 🔼 🛫 2026-10-19 📅 2026-10-23
 - [ ] @tomasz Get the sender name approved by the provider 🔺 🛫 2026-10-16 📅 2026-10-23

@@ -30,7 +30,7 @@ A full RACI matrix is more paperwork than help for six people who sit in one roo
 
 ## How we decide
 
-Decisions that change the plan use DACI: one **driver** who prepares the question, one **approver** who decides, **contributors** who are asked, and the people who are **informed**. The first one, SMS first, is written up that way. A decision that does not change the plan is made by whoever owns the task.
+Decisions that change the plan use DACI: one **driver** who prepares the question, one **approver** who decides, **contributors** who are asked, and the people who are **informed**. The first one, [SMS first](decisions/sms-first.md), is written up that way. A decision that does not change the plan is made by whoever owns the task.
 
 ## Working agreements
 
