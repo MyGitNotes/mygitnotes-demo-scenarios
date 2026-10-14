@@ -1,0 +1,9 @@
+versions:
+  - blob: a64bd44015b277b7cb8040411e697fc4cc3d7a89
+    parent: e29ffa00af05fdbd96127178605a226a34b7b2fc
+    authored: "2026-10-14T10:30:00+08:00"
+    sequence: 1
+    date: 2026.10.14
+    name: "v1：乙方草稿"
+    note: "乙方 10 月 5 日寄來的原稿，一個字都沒動。"
+    created: "2026-10-14T02:30:00.000Z"
