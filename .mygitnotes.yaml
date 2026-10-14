@@ -25,6 +25,13 @@ notebooks:
     title: "Contract review"
     root: contract-en
     default_view: list
+  - id: contract-zh-tw
+    title: "合約審閱"
+    root: contract-zh-tw
+    default_view: list
+    statuses:
+      - { name: "進行中", color: blue }
+      - { name: "已完成", color: green }
   - id: designer-en
     title: "Designer's notebook: brand identity"
     root: designer-en
