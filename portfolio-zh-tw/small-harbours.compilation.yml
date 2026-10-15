@@ -1,0 +1,18 @@
+version: 1
+id: portfolio-zh-tw-harbours
+title: 小港灣
+arrangement: lane
+size: small
+items:
+  - id: dawn
+    kind: asset
+    path: portfolio-zh-tw/assets/harbour-dawn.webp
+  - id: noon
+    kind: asset
+    path: portfolio-zh-tw/assets/harbour-noon.webp
+  - id: fog
+    kind: asset
+    path: portfolio-zh-tw/assets/harbour-fog.webp
+  - id: night
+    kind: asset
+    path: portfolio-zh-tw/assets/harbour-night.webp
