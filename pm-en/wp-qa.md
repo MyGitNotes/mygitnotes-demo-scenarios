@@ -23,7 +23,7 @@ A bug found in beta gets a title that a shopkeeper would understand, the build n
 
 ## Tasks
 
-- [ ] @kofi Update the v1.0 regression suite for the new check-in screen 🔼 🛫 2026-10-12 📅 2026-10-16
+- [x] @kofi Update the v1.0 regression suite for the new check-in screen 🔼 🛫 2026-10-12 📅 2026-10-16 ✅ 2026-10-16
 - [ ] @kofi Set up the TestFlight internal group and the Android internal track 🔼 🛫 2026-10-13 📅 2026-10-19
 - [ ] @kofi Run the full regression on the first beta build ⏫ 🛫 2026-10-30 📅 2026-11-03
 - [ ] @kofi @leo Run the counter flow in the three pilot shops 🔼 🛫 2026-11-02 📅 2026-11-05

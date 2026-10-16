@@ -24,7 +24,7 @@ Open question from the spec: what the shopkeeper sees when the code is wrong and
 
 ## Tasks
 
-- [ ] @rhea Design the counter screen: six digits in, parcel out 🔼 🛫 2026-10-12 📅 2026-10-16
+- [x] @rhea Design the counter screen: six digits in, parcel out 🔼 🛫 2026-10-12 📅 2026-10-16 ✅ 2026-10-16
 - [ ] @ines Build code entry and the Collected confirmation ⏫ 🛫 2026-10-19 📅 2026-10-29
 - [ ] @tomasz Make a code work once and refuse it after collection ⏫ 🛫 2026-10-21 📅 2026-10-27
 - [ ] @maren @rhea Decide the wording shown when the code does not match and a name is tried 🔽 🛫 2026-10-23 📅 2026-10-28

@@ -1,7 +1,7 @@
 ---
 title: "Milestone 1: scope freeze"
 tags: [milestone]
-status: planned
+status: done
 milestone: 2026-10-16
 ---
 # Milestone 1: scope freeze
@@ -21,4 +21,4 @@ Met on the day. Barcode scanning came back as a request from two shops during th
 
 ## Tasks
 
-- [ ] @maren Freeze the v1.1 scope list and send it to the team ⏫ 🛫 2026-10-12 📅 2026-10-16
+- [x] @maren Freeze the v1.1 scope list and send it to the team ⏫ 🛫 2026-10-12 📅 2026-10-16 ✅ 2026-10-16
