@@ -7,3 +7,11 @@ versions:
     name: "v1：乙方草稿"
     note: "乙方 10 月 5 日寄來的原稿，一個字都沒動。"
     created: "2026-10-14T02:30:00.000Z"
+  - blob: 4ac51ac7494058e0f7cbe9951e4c2cf66d1e726e
+    parent: 15864cbaa8ca26514bcb0e9c013e3d57d1978d28
+    authored: "2026-10-16T17:00:00+08:00"
+    sequence: 2
+    date: 2026.10.16
+    name: "v2：穗禾修訂"
+    note: "付款 30 日、續約 12 個月、雙方皆可終止、賠償上限 12 個月服務費。"
+    created: "2026-10-16T09:00:00.000Z"
