@@ -16,3 +16,6 @@ items:
   - id: critique
     kind: note
     path: designer-en/round-1-directions.md
+  - id: feedback
+    kind: note
+    path: designer-en/client-feedback-r1.md

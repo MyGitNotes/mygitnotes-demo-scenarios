@@ -1,7 +1,7 @@
 ---
 title: Round 1, three directions
 tags: [mossgate, marks, critique]
-status: in review
+status: approved
 ---
 # Round 1: three directions
 
@@ -35,7 +35,7 @@ An hour with Lena, who designs for a living but has never seen this project. I a
 ![Mark A: a thick rounded arch with a single leaf inside, in moss green](assets/mark-a-gate-leaf.webp)
 
 - {#1 pin x=50% y=23.8% by=lena} The arch reads as a doorway before it reads as a logo. Good.
-- {#2 pin x=52.1% y=59.8% by=lena} With the leaf sitting where it does, the whole thing can read as a lowercase "n" from a distance. Check it on the sign before presenting.
+- {#2 pin x=52.1% y=59.8% resolved by=lena} With the leaf sitting where it does, the whole thing can read as a lowercase "n" from a distance. Check it on the sign before presenting.
 - {#3 pin x=70% y=67.9% by=lena} The stroke is heavy enough to survive being painted by hand.
 :::
 
@@ -62,3 +62,5 @@ An hour with Lena, who designs for a living but has never seen this project. I a
 Present all three, **lead with A**, and say plainly that I recommend it. Keep B as the secondary stamp (the round seal can sit on lids and bags without competing with the door) and let C go.
 
 Open items before the presentation: test A at sign distance for comment 2, and redraw the leaf so it is clearly a leaf and not a stroke.
+
+Next: [Client feedback on round 1](client-feedback-r1.md).
