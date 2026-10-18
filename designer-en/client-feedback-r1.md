@@ -12,10 +12,10 @@ Dana answered on the call and followed up by email the next morning. Her words a
 :::annotate[Dana's comments on direction A]
 ![Direction A: a rounded arch with a leaf inside, in moss green](assets/mark-a-gate-leaf.webp)
 
-- {#1 pin x=50% y=37.9% by=dana} "That is my door. I want that one." *(Preference: choose A.)*
-- {#2 pin x=52.1% y=59.8% by=dana} "The leaf looks like it is about to fall. Can it stand on the ground?" *(Problem: the leaf floats, which also feeds the lowercase "n" reading from the critique.)*
-- {#3 pin x=30% y=53.6% by=dana} "I worry the line is thin for the sign." *(Problem: legibility at sign distance.)*
-- {#4 pin x=70% y=53.6% by=dana} "Can it be terracotta on some things? Moss everywhere feels sleepy." *(Preference: more than one colour.)*
+- {#1 pin x=50% y=37.9% resolved by=dana} "That is my door. I want that one." *(Preference: choose A.)*
+- {#2 pin x=52.1% y=59.8% resolved by=dana} "The leaf looks like it is about to fall. Can it stand on the ground?" *(Problem: the leaf floats, which also feeds the lowercase "n" reading from the critique.)*
+- {#3 pin x=30% y=53.6% resolved by=dana} "I worry the line is thin for the sign." *(Problem: legibility at sign distance.)*
+- {#4 pin x=70% y=53.6% resolved by=dana} "Can it be terracotta on some things? Moss everywhere feels sleepy." *(Preference: more than one colour.)*
 - {#5 region x=26.8% y=23.2% w=46.4% h=51.8% by=dana} "My brother says it looks like a letter n." *(Problem, same as critique comment 2, now from a second person.)*
 :::
 
@@ -24,7 +24,7 @@ Comment 6 is about the fern seal, so it is pinned on direction B.
 :::annotate[Dana's comment on direction B]
 ![Direction B: a thin circle holding a single fern frond, in moss green](assets/mark-b-fern-seal.webp)
 
-- {#6 pin x=52.1% y=53.6% by=dana} "I like the fern one too. Could that go on the tins?" *(Preference: keep B.)*
+- {#6 pin x=52.1% y=53.6% resolved by=dana} "I like the fern one too. Could that go on the tins?" *(Preference: keep B.)*
 :::
 
 ## What I answered
