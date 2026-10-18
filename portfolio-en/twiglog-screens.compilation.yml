@@ -1,0 +1,18 @@
+version: 1
+id: portfolio-en-twiglog
+title: Twiglog screens
+arrangement: lane
+size: small
+items:
+  - id: wireframes
+    kind: asset
+    path: portfolio-en/assets/twiglog-wireframes.webp
+  - id: map
+    kind: asset
+    path: portfolio-en/assets/twiglog-map.webp
+  - id: entry
+    kind: asset
+    path: portfolio-en/assets/twiglog-entry.webp
+  - id: collection
+    kind: asset
+    path: portfolio-en/assets/twiglog-collection.webp
