@@ -32,6 +32,10 @@ notebooks:
     statuses:
       - { name: "進行中", color: blue }
       - { name: "已完成", color: green }
+  - id: daily-en
+    title: "Daily journal and weekly review"
+    root: daily-en
+    default_view: list
   - id: designer-en
     title: "Designer's notebook: brand identity"
     root: designer-en
