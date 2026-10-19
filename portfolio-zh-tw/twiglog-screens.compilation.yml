@@ -1,0 +1,18 @@
+version: 1
+id: portfolio-zh-tw-twiglog
+title: 棲枝日誌畫面
+arrangement: lane
+size: small
+items:
+  - id: wireframes
+    kind: asset
+    path: portfolio-zh-tw/assets/twiglog-wireframes.webp
+  - id: map
+    kind: asset
+    path: portfolio-zh-tw/assets/twiglog-map.webp
+  - id: entry
+    kind: asset
+    path: portfolio-zh-tw/assets/twiglog-entry.webp
+  - id: collection
+    kind: asset
+    path: portfolio-zh-tw/assets/twiglog-collection.webp
