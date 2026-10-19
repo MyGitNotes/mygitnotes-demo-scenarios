@@ -60,7 +60,7 @@ On Tuesday 10 November @maren asks each owner one question. The answer is go onl
 | Both builds are approved and waiting to be published (iOS set to manual release, Android under managed publishing) | @ines |
 | The SMS sender name is approved, and a message to a real phone arrives in under a minute | @tomasz |
 | The three pilot shops have done the counter flow once without help | @leo |
-| The risk register has no open risk rated red | @maren |
+| The [risk register](risks.md) has no open risk rated red | @maren |
 
 ## Rollout and rollback
 

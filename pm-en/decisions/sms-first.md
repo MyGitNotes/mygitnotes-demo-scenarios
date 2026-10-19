@@ -42,7 +42,7 @@ status: done
 
 ## What follows
 
-- The SMS provider account and the sender name are now on the critical path. That is risk R1 in the risk register.
+- The SMS provider account and the sender name are now on the critical path. That is risk R1 in the [risk register](../risks.md).
 - The cost of a message goes into the pilot: the shops see their bill before they are asked to pay it.
 - Push stays in the spec as a later channel.
 
