@@ -1,0 +1,21 @@
+version: 1
+id: designer-en-applications
+title: Applications
+arrangement: lane
+size: small
+items:
+  - id: tins
+    kind: asset
+    path: designer-en/assets/mockup-tins.webp
+  - id: sign
+    kind: asset
+    path: designer-en/assets/mockup-sign.webp
+  - id: app
+    kind: asset
+    path: designer-en/assets/mockup-app.webp
+  - id: poster
+    kind: asset
+    path: designer-en/assets/mockup-poster.webp
+  - id: note
+    kind: note
+    path: designer-en/applications.md
