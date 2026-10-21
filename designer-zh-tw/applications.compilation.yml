@@ -1,0 +1,21 @@
+version: 1
+id: designer-zh-tw-applications
+title: 應用延伸
+arrangement: lane
+size: small
+items:
+  - id: tins
+    kind: asset
+    path: designer-zh-tw/assets/mockup-tins.webp
+  - id: sign
+    kind: asset
+    path: designer-zh-tw/assets/mockup-sign.webp
+  - id: app
+    kind: asset
+    path: designer-zh-tw/assets/mockup-app.webp
+  - id: poster
+    kind: asset
+    path: designer-zh-tw/assets/mockup-poster.webp
+  - id: note
+    kind: note
+    path: designer-zh-tw/applications.md
