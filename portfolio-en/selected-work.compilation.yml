@@ -1,0 +1,24 @@
+version: 1
+id: portfolio-en-selected
+title: Selected work
+arrangement: lane
+size: medium
+items:
+  - id: lamplight-image
+    kind: asset
+    path: portfolio-en/assets/lamplight-poster-reel.webp
+  - id: lamplight-note
+    kind: note
+    path: portfolio-en/case-lamplight-hall.md
+  - id: twiglog-image
+    kind: asset
+    path: portfolio-en/assets/twiglog-map.webp
+  - id: twiglog-note
+    kind: note
+    path: portfolio-en/case-twiglog.md
+  - id: harbours-image
+    kind: asset
+    path: portfolio-en/assets/harbour-dawn.webp
+  - id: harbours-note
+    kind: note
+    path: portfolio-en/small-harbours.md

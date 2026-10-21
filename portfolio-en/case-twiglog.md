@@ -1,7 +1,7 @@
 ---
 title: "Case study: Twiglog"
 tags: [portfolio, case-study, product]
-status: draft
+status: polishing
 ---
 # Twiglog: a bird journal with buttons big enough for touchscreen gloves
 

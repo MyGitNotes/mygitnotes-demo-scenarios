@@ -1,0 +1,20 @@
+version: 1
+id: portfolio-en-site
+title: Portfolio site
+arrangement: book
+items:
+  - id: about
+    kind: note
+    path: portfolio-en/about.md
+  - id: lamplight
+    kind: note
+    path: portfolio-en/case-lamplight-hall.md
+  - id: twiglog
+    kind: note
+    path: portfolio-en/case-twiglog.md
+  - id: harbours
+    kind: note
+    path: portfolio-en/small-harbours.md
+  - id: process
+    kind: note
+    path: portfolio-en/how-i-work.md
