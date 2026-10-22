@@ -43,6 +43,15 @@ notebooks:
     statuses:
       - { name: "進行中", color: blue }
       - { name: "已完成", color: green }
+  - id: project-en
+    title: "Product spec"
+    root: project-en
+    default_view: kanban
+    statuses:
+      - { name: "backlog", color: gray }
+      - { name: "specifying", color: purple }
+      - { name: "building", color: amber }
+      - { name: "shipped", color: green }
   - id: teaching-en
     title: "Teaching: lesson slides"
     root: teaching-en
