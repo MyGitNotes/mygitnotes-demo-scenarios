@@ -1,0 +1,24 @@
+version: 1
+id: portfolio-zh-tw-selected
+title: 精選作品
+arrangement: lane
+size: medium
+items:
+  - id: lamplight-image
+    kind: asset
+    path: portfolio-zh-tw/assets/lamplight-poster-reel.webp
+  - id: lamplight-note
+    kind: note
+    path: portfolio-zh-tw/case-lamplight-hall.md
+  - id: twiglog-image
+    kind: asset
+    path: portfolio-zh-tw/assets/twiglog-map.webp
+  - id: twiglog-note
+    kind: note
+    path: portfolio-zh-tw/case-twiglog.md
+  - id: harbours-image
+    kind: asset
+    path: portfolio-zh-tw/assets/harbour-dawn.webp
+  - id: harbours-note
+    kind: note
+    path: portfolio-zh-tw/small-harbours.md
