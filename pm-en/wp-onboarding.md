@@ -21,7 +21,7 @@ The v1.0 retro found that the shops that called us were the ones who had read no
 
 ## Tasks
 
-- [ ] @leo Choose three pilot shops, with Hale's Corner Shop first 🔼 🛫 2026-10-19 📅 2026-10-22
+- [x] @leo Choose three pilot shops, with Hale's Corner Shop first 🔼 🛫 2026-10-19 📅 2026-10-22 ✅ 2026-10-21
 - [ ] @leo Write the draft text of the help sheet 🔼 🛫 2026-10-19 📅 2026-10-22
 - [ ] @rhea Lay out the one-page help sheet 🔼 🛫 2026-10-26 📅 2026-11-02
 - [ ] @leo Write the message that tells shops what changes on Thursday 🔽 🛫 2026-11-02 📅 2026-11-09

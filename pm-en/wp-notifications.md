@@ -24,7 +24,7 @@ Planned. The registration of the sender name has a lead time, so it goes first, 
 - [x] @tomasz Generate the six-digit pickup code, unique among waiting parcels ⏫ 🛫 2026-10-12 📅 2026-10-16 ✅ 2026-10-15
 - [x] @maren @tomasz Pick the channel for the pickup message ⏫ 🛫 2026-10-12 📅 2026-10-14 ✅ 2026-10-14
 - [x] @tomasz Open the account with the SMS provider and send a test message 🔼 🛫 2026-10-14 📅 2026-10-16 ✅ 2026-10-16
-- [ ] @rhea Write the message text with two shop owners 🔼 🛫 2026-10-19 📅 2026-10-23
+- [x] @rhea Write the message text with two shop owners 🔼 🛫 2026-10-19 📅 2026-10-23 ✅ 2026-10-22
 - [ ] @tomasz Get the sender name approved by the provider 🔺 🛫 2026-10-16 📅 2026-10-23
 - [ ] @tomasz Switch the first message to the registered sender and time it on a real phone ⏫ 🛫 2026-10-26 📅 2026-10-28
 - [ ] @tomasz Add the reminder job for parcels still waiting after three days 🔼 🛫 2026-10-26 📅 2026-10-30
