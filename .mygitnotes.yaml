@@ -52,6 +52,15 @@ notebooks:
       - { name: "specifying", color: purple }
       - { name: "building", color: amber }
       - { name: "shipped", color: green }
+  - id: project-zh-tw
+    title: "產品規格"
+    root: project-zh-tw
+    default_view: kanban
+    statuses:
+      - { name: "待排", color: gray }
+      - { name: "規格中", color: purple }
+      - { name: "開發中", color: amber }
+      - { name: "已上線", color: green }
   - id: teaching-en
     title: "Teaching: lesson slides"
     root: teaching-en
