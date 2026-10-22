@@ -65,6 +65,13 @@ notebooks:
     title: "Teaching: lesson slides"
     root: teaching-en
     default_view: list
+  - id: teaching-zh-tw
+    title: "教學：課堂簡報"
+    root: teaching-zh-tw
+    default_view: list
+    statuses:
+      - { name: "進行中", color: blue }
+      - { name: "已完成", color: green }
   - id: designer-en
     title: "Designer's notebook: brand identity"
     root: designer-en
