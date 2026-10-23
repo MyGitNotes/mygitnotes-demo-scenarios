@@ -11,7 +11,7 @@ milestone: 2026-10-16
 ## Exit criteria
 
 - The scope table in the release plan is agreed by every owner.
-- Every item in scope has a spec note that says when it is done: Notifications and Pickup flow.
+- Every item in scope has a spec note that says when it is done: [Notifications](../../project-en/spec-notifications.md) and [Pickup flow](../../project-en/spec-pickup-flow.md).
 - Each item has an owner and a date in the work package notes.
 - The things left out are named, so nobody expects them: barcode scanning and returns.
 

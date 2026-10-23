@@ -7,7 +7,7 @@ status: done
 
 **Decided Wednesday 14 October 2026.** Driver: @tomasz, who compared the options. Approver: @maren. Contributors: @rhea and @leo, who asked the shops. Informed: @kofi and @ines.
 
-**The question.** How does a neighbour hear that a parcel has arrived? The spec needs the message within a minute of check-in and says nothing about the channel.
+**The question.** How does a neighbour hear that a parcel has arrived? The [spec](../../project-en/spec-notifications.md) needs the message within a minute of check-in and says nothing about the channel.
 
 **The decision.** The first message goes out by SMS in v1.1. Reminders are one per parcel, after three days. Push notifications are a later addition for neighbours who install the app.
 

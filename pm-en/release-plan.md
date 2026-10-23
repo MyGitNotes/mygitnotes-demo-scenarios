@@ -20,11 +20,11 @@ What is in v1.1, with the spec note each item comes from:
 
 | In v1.1 | Spec | Owner |
 | --- | --- | --- |
-| The pickup message with a six-digit code, by SMS | Notifications | @tomasz |
-| A reminder after three days, with an off switch for reminders | Notifications | @tomasz |
-| Code check at the counter: a code works once | Pickup flow | @ines |
+| The pickup message with a six-digit code, by SMS | [Notifications](../project-en/spec-notifications.md) | @tomasz |
+| A reminder after three days, with an off switch for reminders | [Notifications](../project-en/spec-notifications.md) | @tomasz |
+| Code check at the counter: a code works once | [Pickup flow](../project-en/spec-pickup-flow.md) | @ines |
 
-What is not, and stays on the backlog until v1.2: barcode scanning and returns. Both were asked for. Neither is needed for the message and the code to work, and each would add a week of testing.
+What is not, and stays on the backlog until v1.2: [barcode scanning](../project-en/spec-barcode-scan.md) and [returns](../project-en/spec-returns.md). Both were asked for. Neither is needed for the message and the code to work, and each would add a week of testing.
 
 ## Milestones
 

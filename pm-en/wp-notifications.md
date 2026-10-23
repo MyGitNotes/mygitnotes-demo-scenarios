@@ -5,7 +5,7 @@ status: in progress
 ---
 # Pickup message and reminder
 
-**Owner:** @tomasz. **Accountable:** @maren. The spec is Notifications.
+**Owner:** @tomasz. **Accountable:** @maren. The spec is [Notifications](../project-en/spec-notifications.md).
 
 When a shopkeeper checks a parcel in, the neighbour gets an SMS within a minute that names the shop and carries a six-digit pickup code. If the parcel is still on the shelf after three days, one reminder follows. The first message cannot be turned off. Reminders can. The channel was decided on 14 October: [SMS first](decisions/sms-first.md).
 

@@ -5,7 +5,7 @@ status: in progress
 ---
 # Code check at the counter
 
-**Owner:** @ines. **Accountable:** @maren. The spec is Pickup flow.
+**Owner:** @ines. **Accountable:** @maren. The spec is [Pickup flow](../project-en/spec-pickup-flow.md).
 
 A neighbour shows the six digits from the message. The shopkeeper types them in, the app shows the parcel, and one tap marks it collected. A code works once. After collection it is dead.
 
