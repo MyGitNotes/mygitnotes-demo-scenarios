@@ -1,0 +1,29 @@
+version: 1
+id: designer-en-book
+title: Mossgate, start to finish
+arrangement: book
+items:
+  - id: brief
+    kind: note
+    path: designer-en/brief.md
+  - id: research
+    kind: note
+    path: designer-en/research.md
+  - id: moodboard
+    kind: note
+    path: designer-en/moodboard.md
+  - id: round-1
+    kind: note
+    path: designer-en/round-1-directions.md
+  - id: feedback
+    kind: note
+    path: designer-en/client-feedback-r1.md
+  - id: round-2
+    kind: note
+    path: designer-en/round-2-refinement.md
+  - id: applications
+    kind: note
+    path: designer-en/applications.md
+  - id: handoff
+    kind: note
+    path: designer-en/handoff.md
