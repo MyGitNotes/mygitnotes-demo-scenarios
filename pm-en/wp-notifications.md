@@ -1,7 +1,7 @@
 ---
 title: Pickup message and reminder
 tags: [work-package, backend]
-status: in progress
+status: blocked
 ---
 # Pickup message and reminder
 
@@ -17,7 +17,7 @@ When a shopkeeper checks a parcel in, the neighbour gets an SMS within a minute 
 
 ## Where it stands
 
-Planned. The registration of the sender name has a lead time, so it goes first, and everything that has to reach a real phone waits for it. Until it is approved, messages can only go from the provider's shared test sender.
+The code generator and the provider account are done, and the message text is agreed with two shop owners. The work is **blocked on the sender name**: the provider has the registration since 16 October and has not approved it. Until then messages go from the provider's shared test sender, which only reaches phones we have added by hand. This is risk R1 in the [risk register](risks.md).
 
 ## Tasks
 

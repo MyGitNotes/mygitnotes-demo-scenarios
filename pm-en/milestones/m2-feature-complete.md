@@ -17,7 +17,7 @@ milestone: 2026-10-30
 
 ## Watch
 
-This milestone is the first one at risk. The SMS sender name has been waiting for approval since 16 October, and the first criterion depends on it. The week 43 status names the date by which @maren decides what to do if approval has not arrived.
+This milestone is the first one at risk. The SMS sender name has been waiting for approval since 16 October, and the first criterion depends on it. The [week 43 status](../status/2026-10-23.md) names the date by which @maren decides what to do if approval has not arrived.
 
 ## Tasks
 
