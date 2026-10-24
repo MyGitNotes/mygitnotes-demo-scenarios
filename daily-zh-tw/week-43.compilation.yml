@@ -1,0 +1,17 @@
+version: 1
+id: daily-zh-tw-week43
+title: 第 43 週一次讀完
+arrangement: book
+source:
+  kind: tag
+  tag: week-43
+sort:
+  field: manual
+  order: asc
+manualOrder:
+  - daily-zh-tw/journal/2026-10-19.md
+  - daily-zh-tw/journal/2026-10-20.md
+  - daily-zh-tw/journal/2026-10-21.md
+  - daily-zh-tw/journal/2026-10-22.md
+  - daily-zh-tw/journal/2026-10-23.md
+  - daily-zh-tw/weekly-review.md
