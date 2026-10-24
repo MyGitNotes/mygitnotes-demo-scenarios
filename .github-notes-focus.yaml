@@ -82,3 +82,27 @@ focuses:
               id: p3
               tabs:
                 - { kind: note, path: pm-en/risks.md }
+  - id: pm-zh-tw-friday
+    notebookId: pm-zh-tw
+    name: 週五檢視
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: pm-zh-tw/release-plan.md }
+        - kind: split
+          id: s2
+          orientation: vertical
+          children:
+            - kind: pane
+              id: p2
+              tabs:
+                - { kind: note, path: pm-zh-tw/status/2026-10-23.md }
+            - kind: pane
+              id: p3
+              tabs:
+                - { kind: note, path: pm-zh-tw/risks.md }
