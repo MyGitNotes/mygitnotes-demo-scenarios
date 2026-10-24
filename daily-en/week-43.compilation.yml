@@ -1,0 +1,17 @@
+version: 1
+id: daily-en-week43
+title: Week 43 in one scroll
+arrangement: book
+source:
+  kind: tag
+  tag: week-43
+sort:
+  field: manual
+  order: asc
+manualOrder:
+  - daily-en/journal/2026-10-19.md
+  - daily-en/journal/2026-10-20.md
+  - daily-en/journal/2026-10-21.md
+  - daily-en/journal/2026-10-22.md
+  - daily-en/journal/2026-10-23.md
+  - daily-en/weekly-review.md
