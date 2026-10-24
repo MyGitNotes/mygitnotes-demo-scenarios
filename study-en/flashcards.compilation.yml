@@ -1,0 +1,22 @@
+version: 1
+id: study-en-cards
+title: Linear algebra flashcards
+arrangement: lane
+size: small
+source:
+  kind: tag
+  tag: card
+study:
+  filter: all
+  dueFirst: true
+progression:
+  stages:
+    - status: new
+      intervalDays: 1
+    - status: learning
+      intervalDays: 3
+    - status: review
+      intervalDays: 7
+    - status: known
+      intervalDays: 30
+  easy: two
