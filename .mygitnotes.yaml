@@ -43,6 +43,15 @@ notebooks:
     statuses:
       - { name: "進行中", color: blue }
       - { name: "已完成", color: green }
+  - id: study-en
+    title: "Course notes: linear algebra"
+    root: study-en
+    default_view: list
+    statuses:
+      - { name: "new", color: purple }
+      - { name: "learning", color: blue }
+      - { name: "review", color: amber }
+      - { name: "known", color: green }
   - id: project-en
     title: "Product spec"
     root: project-en
