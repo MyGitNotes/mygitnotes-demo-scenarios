@@ -1,0 +1,17 @@
+version: 1
+id: writing-zh-tw-book
+title: 《六點四十分的渡輪》（書）
+arrangement: book
+items:
+  - id: ch1
+    kind: note
+    path: writing-zh-tw/chapters/01-morning-crossing.md
+  - id: ch2
+    kind: note
+    path: writing-zh-tw/chapters/02-captains-ledger.md
+  - id: ch3
+    kind: note
+    path: writing-zh-tw/chapters/03-winter-timetable.md
+  - id: ch4
+    kind: note
+    path: writing-zh-tw/chapters/04-the-vote.md
