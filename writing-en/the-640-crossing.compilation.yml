@@ -1,0 +1,17 @@
+version: 1
+id: writing-en-book
+title: The 6:40 Crossing (book)
+arrangement: book
+items:
+  - id: ch1
+    kind: note
+    path: writing-en/chapters/01-morning-crossing.md
+  - id: ch2
+    kind: note
+    path: writing-en/chapters/02-captains-ledger.md
+  - id: ch3
+    kind: note
+    path: writing-en/chapters/03-winter-timetable.md
+  - id: ch4
+    kind: note
+    path: writing-en/chapters/04-the-vote.md
