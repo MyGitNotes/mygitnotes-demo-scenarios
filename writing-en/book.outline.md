@@ -1,7 +1,7 @@
 ---
 title: Book outline
 tags: [outline]
-status: working
+status: revising
 ---
 # Book outline
 
