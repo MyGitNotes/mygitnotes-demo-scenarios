@@ -9,7 +9,7 @@ status: done
 A plant makes its own food from light, water and air.
 :::
 
-::vertical
+---
 
 ## What goes in, what comes out
 
@@ -27,7 +27,7 @@ A plant makes its own food from light, water and air.
 :::
 ::::
 
-::vertical
+---
 
 ## The process
 
@@ -46,7 +46,7 @@ A plant makes its own food from light, water and air.
 :::
 ::::
 
-::vertical
+---
 
 ## Compare: day and night
 
@@ -68,7 +68,7 @@ Plants do both: they make food in light and use food all the time.
 :::
 ::::
 
-::vertical
+---
 
 :::summary{slide="5"}
 Remember: **carbon dioxide + water, with light energy → glucose + oxygen.** In symbols: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Next, the worksheet.
