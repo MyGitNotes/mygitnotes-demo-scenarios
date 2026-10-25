@@ -65,6 +65,13 @@ notebooks:
     title: "Literature reading"
     root: reading-en
     default_view: list
+  - id: reading-zh-tw
+    title: "文獻閱讀"
+    root: reading-zh-tw
+    default_view: list
+    statuses:
+      - { name: "進行中", color: blue }
+      - { name: "已完成", color: green }
   - id: project-en
     title: "Product spec"
     root: project-en
