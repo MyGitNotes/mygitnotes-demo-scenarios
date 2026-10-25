@@ -81,6 +81,15 @@ notebooks:
       - { name: "drafting", color: blue }
       - { name: "revising", color: amber }
       - { name: "final", color: green }
+  - id: writing-zh-tw
+    title: "寫一本書"
+    root: writing-zh-tw
+    default_view: list
+    statuses:
+      - { name: "構想", color: gray }
+      - { name: "草稿", color: blue }
+      - { name: "修改中", color: amber }
+      - { name: "定稿", color: green }
   - id: project-en
     title: "Product spec"
     root: project-en
