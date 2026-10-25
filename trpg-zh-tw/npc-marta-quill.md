@@ -7,7 +7,7 @@ status: 參考
 
 哈羅港的港務長。她負責替海鷗岩運補給，但從 1919 年起就沒再踏上那座岩礁。
 
-:::coc-stat{name="瑪塔·奎爾" role="港務長，46 歲" str=55 con=70 siz=60 dex=60 int=55 app=45 pow=50 edu=45 san=50 hp=13 db=0 build=0 move=8}
+:::coc-stat{name="瑪塔·奎爾" role="港務長，46 歲" str=55 con=70 siz=60 dex=60 int=55 app=45 pow=50 edu=45 san=50 hp=13 db=0 build=0 move=7}
 **技能：** 說服 55%、導航 60%、駕駛（船隻）80%、心理學 40%、偵查 50%。
 
 **攻擊：** 格鬥（鬥毆）40%，船鉤傷害 1d6+DB。
