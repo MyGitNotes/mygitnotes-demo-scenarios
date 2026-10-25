@@ -8,7 +8,7 @@ status: reference
 Harbourmaster of Port Harrow. She ferries supplies to the rock but has not set foot there since 1919.
 
 :::coc-stat{name="Marta Quill" role="Harbourmaster, 46" str=55 con=70 siz=60 dex=60 int=55 app=45 pow=50 edu=45 san=50 hp=13 db=0 build=0 move=8}
-**Skills:** Persuade 55%, Navigate 60%, Pilot Boat 80%, Psychology 40%, Spot Hidden 50%.
+**Skills:** Persuade 55%, Navigate 60%, Pilot (Boat) 80%, Psychology 40%, Spot Hidden 50%.
 
 **Attack:** Fighting (Brawl) 40%, boathook 1d6+DB.
 :::

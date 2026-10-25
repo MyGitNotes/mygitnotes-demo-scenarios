@@ -9,7 +9,7 @@ status: reference
 
 ## Premise
 
-The Northern Lights Board employs the investigators to find out why Ambrose Vale, keeper of the Gull Rock light, has not answered the monthly signal for nine days. The lamp still burns every night on time. Nobody in Port Harrow will row out to see why.
+The Coast Lights Board employs the investigators to find out why Ambrose Vale, keeper of the Gull Rock light, has not answered the monthly signal for nine days. The lamp still burns every night on time. Nobody in Port Harrow will row out to see why.
 
 ::::timeline{title="The rock, 1919 to 1925" from="1918" to="1926" ticks="1919,1922,1925"}
 :::lane{title="Port Harrow"}
@@ -54,6 +54,17 @@ The investigators must choose:
 | Hearing the humming for the first time | 1d4 | 0 |
 | Opening the lower door | 1d6 | 1 |
 | Seeing Vale's second logbook hand match their own | 1d3 | 0 |
+
+## Rolls at a glance
+
+| Clue | Skill | Difficulty | If they fail |
+| --- | --- | --- | --- |
+| [Oil receipts](clue-oil-receipts.md) | Library Use, or Persuade (Marta) | Regular | Marta hands them over anyway after the boat price is settled |
+| [Logbook pages](clue-logbook-pages.md) | Spot Hidden | Regular | Vale gives them the logbook himself in Act III |
+| [The humming](clue-humming.md) | Listen | Hard while talking, otherwise Regular | They hear it only when the fog thickens |
+| [The lower door](clue-lower-door.md) | Spot Hidden | Hard | Vale shows them |
+
+A clue the table needs to continue is never behind a failed roll. Let a failure cost time, a point of Luck or a little Sanity, not the story. Allow one pushed roll per clue; a failed push brings the fog in early.
 
 ## Keeper's notes
 

@@ -7,7 +7,7 @@ status: reference
 
 Show these to the players when the story reaches them. The *Editor note* on each one is the Keeper's reminder and stays off the player copy.
 
-:::handout{id="DOC-01" title="Letter from the Northern Lights Board" variant="letter" keeper="Give this at the start. The signature is real; the Board only knows Vale as reliable."}
+:::handout{id="DOC-01" title="Letter from the Coast Lights Board" variant="letter" keeper="Give this at the start. The signature is real; the Board only knows Vale as reliable."}
 Port Harrow, 14 October 1925
 
 Gentlemen,
