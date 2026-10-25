@@ -9,7 +9,7 @@ status: 已完成
 
 ## 可以試試
 
-1. **打開簡報。** [課堂簡報](lesson-slides.md)用簡報指令排版：`summary` 放一句話的重點，`grid` 加 `cell` 排出並列比較，`flow` 加 `step` 排出過程。`::vertical` 標出一張投影片在哪裡結束。
+1. **打開簡報。** [課堂簡報](lesson-slides.md)用簡報指令排版：`summary` 放一句話的重點，`grid` 加 `cell` 排出並列比較，`flow` 加 `step` 排出過程。一行 `---` 就是一張投影片的結尾，所以這份筆記也能一頁一頁翻著讀。
 2. **改一張投影片。** 用原始碼模式打開，改一個 `step`，或把 grid 的 `cols="2"` 改成 `cols="3"`，再加一格。
 3. **照筆記備課。** [教案](lesson-plan.md)有時間安排；[學習單](worksheet.md)有練習題和勾選清單；[參考答案](answer-key.md)有答案。
 4. **看 45 分鐘怎麼分配。** [教案](lesson-plan.md)在時間表下面，用一條 `parts` 長條表示整堂課的時間。
