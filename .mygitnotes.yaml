@@ -61,6 +61,10 @@ notebooks:
       - { name: "學習中", color: blue }
       - { name: "複習中", color: amber }
       - { name: "已熟悉", color: green }
+  - id: reading-en
+    title: "Literature reading"
+    root: reading-en
+    default_view: list
   - id: project-en
     title: "Product spec"
     root: project-en
