@@ -52,6 +52,15 @@ notebooks:
       - { name: "learning", color: blue }
       - { name: "review", color: amber }
       - { name: "known", color: green }
+  - id: study-zh-tw
+    title: "課程筆記：線性代數"
+    root: study-zh-tw
+    default_view: list
+    statuses:
+      - { name: "新卡片", color: purple }
+      - { name: "學習中", color: blue }
+      - { name: "複習中", color: amber }
+      - { name: "已熟悉", color: green }
   - id: project-en
     title: "Product spec"
     root: project-en
