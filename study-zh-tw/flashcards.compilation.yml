@@ -1,0 +1,22 @@
+version: 1
+id: study-zh-tw-cards
+title: 線性代數卡片
+arrangement: lane
+size: small
+source:
+  kind: tag
+  tag: 卡片
+study:
+  filter: all
+  dueFirst: true
+progression:
+  stages:
+    - status: 新卡片
+      intervalDays: 1
+    - status: 學習中
+      intervalDays: 3
+    - status: 複習中
+      intervalDays: 7
+    - status: 已熟悉
+      intervalDays: 30
+  easy: two
