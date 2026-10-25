@@ -54,3 +54,5 @@ A trial stamp, pressed on the kraft stock the labels will use. It is cut from a 
 - The leaf curve is still the version I drew on the train. I will redraw it properly in the vector file before the handoff.
 
 Next: [Applications](applications.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

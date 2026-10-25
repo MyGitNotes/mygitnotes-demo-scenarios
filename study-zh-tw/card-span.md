@@ -18,3 +18,5 @@ $$
 例：$\operatorname{span}\{(1,0),(0,1)\} = \mathbb{R}^2$，但 $\operatorname{span}\{(1,1)\}$ 只是直線 $y = x$。
 
 依據[向量](card-vector.md)。「有沒有向量是多餘的？」這個問題通往[線性獨立](card-independence.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/study)。*

@@ -43,3 +43,5 @@ A checklist for myself, not for the site. I run a draft past it before a case st
 | Small Harbours | Ready (a series, not a case study, so it skips parts 1 and 2) |
 
 Two case studies and one series: the site still needs one more case study to reach three.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/portfolio).*

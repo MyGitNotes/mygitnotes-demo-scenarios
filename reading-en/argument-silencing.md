@@ -22,3 +22,5 @@ The sentence from [silencing an opinion](quote-silencing.md), "He who knows only
 - It shares its attitude with [Descartes's doubt](quote-cogito.md): both insist on testing a belief against its best challenge before relying on it.
 
 See [Doubt and dissent](doubt-and-dissent.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/reading).*

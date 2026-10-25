@@ -30,3 +30,5 @@ Someone who has heard only the case for his own view knows little even of his ow
 The first sentence says silencing is wrong even when the majority is overwhelming. The second gives one reason: you cannot hold a view well without having met its best objections. Both feed [Why silence is a mistake](argument-silencing.md).
 
 The sentence about the single dissenter is the same kind of claim as [the harm principle](quote-harm-principle.md): a limit on what a majority may do.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/reading).*

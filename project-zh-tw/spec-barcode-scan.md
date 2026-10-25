@@ -20,3 +20,5 @@ status: 待排
 - 相機權限是在第一次開啟時就要，還是老闆按下「掃描」才要？
 
 這項要等[資料模型](data-model.md)有地方存物流業者和貨運單號才能開始。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/project)。*

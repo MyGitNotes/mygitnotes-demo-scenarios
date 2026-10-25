@@ -50,3 +50,5 @@ status: 進行中
 
 - 原則本身：[傷害原則](quote-harm-principle.md)。
 - 同樣的推理用在言論上：[封殺意見](quote-silencing.md)和[為什麼不能封殺意見](argument-silencing.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/reading)。*

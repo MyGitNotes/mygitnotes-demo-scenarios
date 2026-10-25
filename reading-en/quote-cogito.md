@@ -21,3 +21,5 @@ Thinking? Here I find it: thinking is. This alone cannot be taken away from me. 
 - The certainty is *local*. It covers "I exist while I think", not "I have a body" or "the world is as it seems".
 - Note the question "for how long?". Descartes does not claim to survive when thinking stops, only that thinking guarantees existence.
 - Compare the stance with Mill's: [Doubt and dissent](doubt-and-dissent.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/reading).*

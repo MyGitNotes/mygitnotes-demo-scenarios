@@ -22,3 +22,5 @@ All six. @maren is the approver and makes the call. The risk register is read al
 ## Tasks
 
 - [ ] @maren Hold the go/no-go call and write the answers into this note ⏫ 🛫 2026-11-10 📅 2026-11-10
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

@@ -26,3 +26,5 @@ Cubbyshelf turns the pen-and-paper list into three steps:
 ## Not in v1
 
 Barcode scanning ([Barcode scanning](spec-barcode-scan.md)) and returns ([Returns](spec-returns.md)) are still on the backlog.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/project).*

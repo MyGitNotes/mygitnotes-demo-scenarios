@@ -56,3 +56,5 @@ The same polynomial as a picture: the eigenvalues are where the curve crosses ze
 - 4｜3
 :::
 ::::
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/study).*

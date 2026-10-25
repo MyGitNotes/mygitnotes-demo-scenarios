@@ -23,3 +23,5 @@ This milestone is the first one at risk. The SMS sender name has been waiting fo
 
 - [ ] @maren Decide whether the beta goes out on the provider's shared sender if approval is late 🔺 🛫 2026-10-26 📅 2026-10-28
 - [ ] @ines @tomasz Cut the first beta build 🔼 🛫 2026-10-29 📅 2026-10-30
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

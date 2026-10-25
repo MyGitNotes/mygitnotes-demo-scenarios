@@ -33,3 +33,5 @@ flowchart TD
 - Should the shopkeeper ask for ID when matching by name? Otherwise anyone can collect a parcel by saying a name.
 
 Related: [Data model](data-model.md) and [Notifications](spec-notifications.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/project).*

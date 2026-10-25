@@ -18,3 +18,5 @@ status: 學習中
 ## 為什麼重要
 
 每個向量在指定的基底下，座標都是唯一的。換一組基底，改變的是數字，不是向量本身。[線性映射](card-linear-map.md)作用的就是這個向量。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/study)。*

@@ -73,3 +73,5 @@ Plants do both: they make food in light and use food all the time.
 :::summary{slide="5"}
 Remember: **carbon dioxide + water, with light energy → glucose + oxygen.** In symbols: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Next, the worksheet.
 :::
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/teaching).*

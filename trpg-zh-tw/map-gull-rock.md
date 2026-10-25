@@ -17,3 +17,5 @@ status: 參考
 - **海蝕洞。** 只有退潮時進得去，[低鳴聲](clue-humming.md)在這裡最響。
 
 開團時放在[劇情大綱](scenario-outline.md)旁邊。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/trpg)。*

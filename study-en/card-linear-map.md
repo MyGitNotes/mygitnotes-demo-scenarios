@@ -24,3 +24,5 @@ A = \begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}.
 $$
 
 This rotation turns every nonzero vector. Many other maps leave some directions alone and only stretch them: those vectors are eigenvectors, and the stretch factors are [Eigenvalues](card-eigenvalue.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/study).*

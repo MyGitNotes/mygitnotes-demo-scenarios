@@ -34,3 +34,5 @@ status: 已上線
 - [退貨](spec-returns.md)｜開始規格前要先回答的問題
 :::
 ::::
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/project)。*

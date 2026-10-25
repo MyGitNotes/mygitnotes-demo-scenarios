@@ -37,3 +37,5 @@ status: 已完成
 - [x] 把學習單印好
 - [x] 幫簡報遙控器充電
 - [ ] 記下哪幾組比較早寫完
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/teaching)。*

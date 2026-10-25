@@ -18,3 +18,5 @@ status: 已完成
 - [ ] [條款變更摘要](clause-changes.md)裡還沒結案的項目，合夥律師簽核了嗎？
 
 可以自己加項目，這份清單就是一般的 Markdown。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/contract)。*

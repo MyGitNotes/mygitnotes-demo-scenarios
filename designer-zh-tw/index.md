@@ -28,3 +28,5 @@ status: 參考
 | 探索 | [第一輪：三個方向](round-1-directions.md)、[業主對第一輪的回饋](client-feedback-r1.md)、[第二輪：修整門的造型](round-2-refinement.md) |
 | 實際用起來 | [應用延伸](applications.md) |
 | 寄出去 | [交付清單](handoff.md) |
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/designer)。*

@@ -14,3 +14,5 @@ status: 草稿
 他們兩人說的，沒有一句是錯的。
 
 *草稿：會議的結尾還沒寫。照寫作守則，要不下結論。也許用隔天早上 6 點 40 分照常出發的那班船收尾。*
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/writing)。*

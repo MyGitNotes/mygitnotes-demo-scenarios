@@ -69,3 +69,5 @@ Each party keeps the other's pricing, routes and customer lists confidential dur
 ## 6. Governing law
 
 This agreement is governed by the laws of the State of Maine. Disputes go to the courts of Harbor County.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/contract).*

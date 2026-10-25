@@ -28,3 +28,5 @@ status: 已上線
 [產品概述](product-overview.md)是不錯的第一個需求：*「根據其他筆記，整理已上線、開發中、待排各有哪些。」*
 
 這份示範副本沒有連接助理。在你自己的工作區裡，從標題列的助理按鈕就能使用。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/project)。*

@@ -28,3 +28,5 @@ This notebook is one freelance designer's working file for a small brand identit
 | Exploring | [Round 1: three directions](round-1-directions.md), [Client feedback on round 1](client-feedback-r1.md), [Round 2: refining the gate](round-2-refinement.md) |
 | In use | [Applications](applications.md) |
 | Sending it off | [Handoff checklist](handoff.md) |
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

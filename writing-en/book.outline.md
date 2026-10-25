@@ -17,3 +17,5 @@ status: revising
     The council meeting. Give both sides their strongest case and end without a verdict.
 - Back matter
   - [Style notes](style-notes.md)
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/writing).*

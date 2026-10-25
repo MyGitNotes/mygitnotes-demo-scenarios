@@ -30,3 +30,5 @@ I am taking new projects from January.
 `hello@tamsinverrill.example`
 
 Everything on this site, including every client, person and number, is invented for this demo.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/portfolio).*

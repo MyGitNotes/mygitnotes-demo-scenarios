@@ -28,3 +28,5 @@ milestone: 2026-11-12
 ## Tasks
 
 - [ ] @ines @tomasz Start the staged rollout at 10% 🔺 🛫 2026-11-12 📅 2026-11-12
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

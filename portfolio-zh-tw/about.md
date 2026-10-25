@@ -30,3 +30,5 @@ status: 可發布
 `hello@qingye.example`
 
 這個網站上所有的客戶、人物和數字，都是為了示範而虛構的。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/portfolio)。*

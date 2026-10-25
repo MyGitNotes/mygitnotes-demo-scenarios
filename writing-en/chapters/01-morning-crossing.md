@@ -16,3 +16,5 @@ That is the first thing an outsider gets wrong. The ferry is not a charming reli
 I stood at the rail and counted. Fourteen people, two vans, a pallet of eggs. If the *Marigold* did not sail, none of them would arrive, and none of them could say what they would do instead.
 
 The next chapter asks how long this has been true, and what the captain's own figures show.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/writing).*

@@ -22,3 +22,5 @@ Tallowfield Bakery Group is about to sign a two-year freight agreement with Lark
 - [Clause changes](clause-changes.md): what moved between versions.
 - [Review checklist](review-checklist.md): what the reviewer checks in every freight contract.
 - [Negotiation log](negotiation-log.md): the calls and emails behind each version.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/contract).*

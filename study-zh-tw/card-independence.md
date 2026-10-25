@@ -24,3 +24,5 @@ $$
 $(1,0)$、$(0,1)$ 線性獨立；$(1,1)$、$(2,2)$ 不獨立，因為 $2\cdot(1,1) - (2,2) = \mathbf{0}$。
 
 又獨立、又能生成整個空間的向量，就是[基底](card-basis.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/study)。*

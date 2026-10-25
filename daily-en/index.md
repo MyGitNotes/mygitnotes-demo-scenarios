@@ -21,3 +21,5 @@ This notebook is one person's week, kept as a daily journal: one note per day, t
 - Daily notes: [Monday](journal/2026-10-19.md), [Tuesday](journal/2026-10-20.md), [Wednesday](journal/2026-10-21.md), [Thursday](journal/2026-10-22.md), [Friday](journal/2026-10-23.md)
 - [Weekly review](weekly-review.md)
 - [Reading list](reading-list.md)
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/daily).*

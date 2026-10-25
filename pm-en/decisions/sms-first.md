@@ -49,3 +49,5 @@ status: done
 ## Tasks
 
 - [ ] @maren Read the pilot shops' SMS bill after two weeks and decide whether reminders stay at one 🔽 🛫 2026-11-16 📅 2026-11-27
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

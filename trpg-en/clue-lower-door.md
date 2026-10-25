@@ -14,3 +14,5 @@ An iron door, warm to the touch, with a keyhole shaped like a lamp wick. There i
 **Sanity:** 1/1d6.
 
 See the endings in the [outline](scenario-outline.md) and the [map](map-gull-rock.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

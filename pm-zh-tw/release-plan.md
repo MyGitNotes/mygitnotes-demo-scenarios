@@ -73,3 +73,5 @@ status: 進行中
 - 老闆拿著正確的取件碼卻無法把包裹交出去。
 
 退回 App 並不會退回資料庫。1.1 版只新增欄位、不刪欄位，所以舊版 App 在新的資料結構上照常運作；找到原因之後，修正會以 1.1.1 往前發，不往回退。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

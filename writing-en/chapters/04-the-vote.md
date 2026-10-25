@@ -14,3 +14,5 @@ Haakon Deverell answered for the ferry. He pointed out that the bridge would bri
 Neither of them was wrong about anything they said.
 
 *Draft: still to write the ending of the meeting. Per the style notes, end without a verdict. Perhaps close on the 6:40 sailing the next morning, which goes out as usual.*
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/writing).*

@@ -32,3 +32,5 @@ status: 參考
 | 里程碑 | [需求凍結](milestones/m1-scope-freeze.md)、[功能完成](milestones/m2-feature-complete.md)、[候選版本](milestones/m3-release-candidate.md)、[上線評估會](milestones/m4-go-no-go.md)、[上線日](milestones/m5-release.md) |
 | 會議 | [1.0 回顧會議](meetings/2026-10-02-v1-retro.md)、[啟動會議](meetings/2026-10-05-kickoff.md)、[10 月 19 日週一同步會](meetings/2026-10-19-sync.md) |
 | 週報 | [10 月 9 日](status/2026-10-09.md)、[10 月 16 日](status/2026-10-16.md)、[10 月 23 日](status/2026-10-23.md) |
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

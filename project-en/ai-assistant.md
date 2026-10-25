@@ -28,3 +28,5 @@ These notes are plain Markdown files, so an AI assistant can work on them direct
 The [overview](product-overview.md) is a good first request: *"Summarise what is shipped, building and still on the backlog, using the other notes."*
 
 In this demo copy the assistant is not connected. In your own workspace it is available from the assistant button in the header.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/project).*

@@ -12,3 +12,5 @@ status: 已完成
 5. 植物製造的葡萄糖，是每一條食物鏈的起點；植物釋出的氧氣，則是動物呼吸需要的。
 
 回到[學習單](worksheet.md)或[教案](lesson-plan.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/teaching)。*

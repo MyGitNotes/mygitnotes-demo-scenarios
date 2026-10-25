@@ -19,3 +19,5 @@ status: 已熟悉
 ## 卡片順序
 
 [向量](card-vector.md) → [生成空間](card-span.md) → [線性獨立](card-independence.md) → [基底與維度](card-basis.md) → [線性映射](card-linear-map.md) → [特徵值](card-eigenvalue.md)
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/study)。*

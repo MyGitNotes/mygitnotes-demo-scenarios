@@ -22,3 +22,5 @@ Notes from a short literature seminar on two old texts: John Stuart Mill's *On L
 - Arguments: [harm principle](argument-harm-principle.md), [silencing](argument-silencing.md)
 - Comparison: [doubt and dissent](doubt-and-dissent.md)
 - [Bibliography](bibliography.md)
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/reading).*

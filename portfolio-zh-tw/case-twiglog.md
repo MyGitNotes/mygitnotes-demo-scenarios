@@ -77,3 +77,5 @@ status: 修飾中
 測試版在春天發給社團的 212 位會員。會計最先要的是每週統計的匯出功能，所以這是下一個要做的工作。
 
 在「合輯」裡打開「棲枝日誌畫面」，可以把線框稿和三張完成的畫面放在同一排看。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/portfolio)。*

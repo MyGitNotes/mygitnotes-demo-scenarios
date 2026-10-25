@@ -22,3 +22,5 @@ status: 進行中
 - 它和[笛卡兒的懷疑](quote-cogito.md)有同樣的態度：兩者都主張，信念要先經過最強的挑戰，才值得依賴。
 
 見[懷疑與異議](doubt-and-dissent.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/reading)。*

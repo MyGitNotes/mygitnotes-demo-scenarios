@@ -39,3 +39,5 @@ Offering three lettering weights beat arguing for one. The client chose in a day
 - [ ] Sketch two ideas for the poster brief 📅 2026-10-26
 - [ ] Send the invoice for the cover 📅 2026-10-26
 - [ ] Finish chapter 3 of the book on the [reading list](reading-list.md) 📅 2026-10-31
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/daily).*

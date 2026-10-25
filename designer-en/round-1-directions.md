@@ -64,3 +64,5 @@ Present all three, **lead with A**, and say plainly that I recommend it. Keep B 
 Open items before the presentation: test A at sign distance for comment 2, and redraw the leaf so it is clearly a leaf and not a stroke.
 
 Next: [Client feedback on round 1](client-feedback-r1.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

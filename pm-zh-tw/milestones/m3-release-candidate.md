@@ -18,3 +18,5 @@ milestone: 2026-11-06
 ## 任務
 
 - [ ] @品蓁 打出候選版本並標上標籤 ⏫ 🛫 2026-11-05 📅 2026-11-06
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

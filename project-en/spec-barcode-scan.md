@@ -20,3 +20,5 @@ Point the phone at the carrier's label. If the barcode is recognised, fill in th
 - Does it need the camera permission on first launch, or only when the shopkeeper taps Scan?
 
 Depends on the [data model](data-model.md) having a place to store the carrier and tracking number.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/project).*

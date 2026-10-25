@@ -14,3 +14,5 @@ Work in pairs. Tick each question when you agree on the answer.
 - [ ] 5. In one sentence: why do animals depend on photosynthesis?
 
 Answers are in the [answer key](answer-key.md). The slides are [here](lesson-slides.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/teaching).*

@@ -22,3 +22,5 @@ milestone: 2026-11-10
 ## 任務
 
 - [ ] @沛珊 召開上線評估會，把答案寫進這篇筆記 ⏫ 🛫 2026-11-10 📅 2026-11-10
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

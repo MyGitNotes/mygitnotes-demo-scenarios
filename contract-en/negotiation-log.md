@@ -53,3 +53,5 @@ The clause that took the most arguing, drawn as a map. Priya's reasons come from
 - Partner sign-off on 4.1.
 - Insurance certificate from Larkmoor.
 - Signature by October 25.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/contract).*

@@ -22,3 +22,5 @@ Met on the day. Barcode scanning came back as a request from two shops during th
 ## Tasks
 
 - [x] @maren Freeze the v1.1 scope list and send it to the team ⏫ 🛫 2026-10-12 📅 2026-10-16 ✅ 2026-10-16
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

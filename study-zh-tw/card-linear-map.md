@@ -24,3 +24,5 @@ A = \begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}.
 $$
 
 這個旋轉會轉動每個非零向量。很多別的映射卻有些方向不轉、只被拉長或縮短：那些向量是特徵向量，倍數就是[特徵值](card-eigenvalue.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/study)。*

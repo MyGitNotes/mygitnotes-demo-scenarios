@@ -24,3 +24,5 @@ status: 參考
 燈光讓房客一直睡著，歷任守燈人都知道，只有燈塔局不知道。
 
 線索見[地下鐵門](clue-lower-door.md)和[守燈日誌](clue-logbook-pages.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/trpg)。*

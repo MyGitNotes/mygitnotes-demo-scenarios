@@ -64,3 +64,5 @@ status: 已定案
 提案前還要處理的事：照評圖第 2 點，在招牌距離下測試 A；另外把葉子重畫，讓它明確是一片葉子，不是一筆線。
 
 下一步：[業主對第一輪的回饋](client-feedback-r1.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/designer)。*

@@ -77,3 +77,5 @@ The only gamified part is a grid that fills up with the birds a member has logge
 The beta went to the group's 212 members in spring. The treasurer asked for the weekly totals export before anything else, so that is the next piece of work.
 
 Under *Compilations*, **Twiglog screens** puts the wireframe sheet and the three final screens in one row.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/portfolio).*

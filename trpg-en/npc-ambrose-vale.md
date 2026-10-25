@@ -24,3 +24,5 @@ The keeper of the Gull Rock light. Thin, polite, and a little too rested for a m
 The light keeps the Tenant asleep. Every keeper before him knew it. The Board does not.
 
 See [the lower door](clue-lower-door.md) and [the logbook](clue-logbook-pages.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

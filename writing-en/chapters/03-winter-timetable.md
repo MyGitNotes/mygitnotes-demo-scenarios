@@ -26,3 +26,5 @@ Those who want the ferry reply that "almost nothing" has never been true of anyt
 I do not think either side is being unreasonable. The disagreement is not about the numbers. It is about whether an island should have to ask for a timetable.
 
 *Revision note: check the $410,000 figure against the county's published budget before this goes out.*
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/writing).*

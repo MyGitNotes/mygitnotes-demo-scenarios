@@ -37,3 +37,5 @@ By the end, every student can say what a plant needs, what it makes, and why it 
 - [x] Print the worksheet
 - [x] Charge the projector clicker
 - [ ] Note which pairs finished early
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/teaching).*

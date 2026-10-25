@@ -50,3 +50,5 @@ The three premises support the conclusion together. The two weak points listed b
 
 - The principle itself: [the harm principle](quote-harm-principle.md).
 - The same pattern applied to speech: [silencing an opinion](quote-silencing.md) and [Why silence is a mistake](argument-silencing.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/reading).*

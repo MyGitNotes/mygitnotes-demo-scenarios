@@ -18,3 +18,5 @@ milestone: 2026-11-06
 ## Tasks
 
 - [ ] @ines Cut and tag the release candidate ⏫ 🛫 2026-11-05 📅 2026-11-06
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

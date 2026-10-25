@@ -24,3 +24,5 @@ $$
 $A = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}$ 的特徵值是 $3$（特徵向量 $(1,1)$）和 $1$（特徵向量 $(1,-1)$）。
 
 特徵向量是[線性映射](card-linear-map.md)不會轉動的那些方向，只會被拉長、縮短或反向。回到起點：[向量](card-vector.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/study)。*

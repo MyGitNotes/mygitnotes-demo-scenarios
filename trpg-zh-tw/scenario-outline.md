@@ -69,3 +69,5 @@ status: 參考
 ## 給守密人
 
 節奏要像鬼故事，不要像打鬥。玩家動作快，就把渡海略過；玩家動作慢，讓霧來推劇情。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/trpg)。*

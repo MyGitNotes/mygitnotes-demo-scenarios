@@ -38,3 +38,5 @@ status: 已完成
 ## 還沒結案
 
 六個月的上限要等合夥律師簽核。見 4.1 的審閱意見。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/contract)。*

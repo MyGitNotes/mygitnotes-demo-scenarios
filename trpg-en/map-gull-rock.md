@@ -17,3 +17,5 @@ The map is a plain SVG file kept in the notebook, so it is versioned like any no
 - **Sea cave.** Only reachable at low tide. This is where [the humming](clue-humming.md) is loudest.
 
 Play it at the table next to the [outline](scenario-outline.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

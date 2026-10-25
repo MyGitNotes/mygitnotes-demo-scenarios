@@ -18,3 +18,5 @@ status: 待排
 - 退貨需不需要取件碼，像[領取包裹](spec-pickup-flow.md)那樣？
 - 誰去通知物流業者？大概是老闆自己，在程式之外處理。
 - 包裹放多久之後，才可以退？
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/project)。*

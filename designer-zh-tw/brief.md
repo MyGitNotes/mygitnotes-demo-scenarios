@@ -45,3 +45,5 @@ status: 已定案
 - 招牌師傅畫得出多細的線？（設計線條之前先問清楚。）
 
 下一步：[前期調查](research.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/designer)。*

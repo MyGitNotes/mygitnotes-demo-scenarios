@@ -12,3 +12,5 @@ status: 已解決
 **代表什麼：** 燈在亮，燒的卻不是油。玩家在第一幕就查到這一點，接下來會問對問題。
 
 **接到：** [守燈日誌](clue-logbook-pages.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/trpg)。*

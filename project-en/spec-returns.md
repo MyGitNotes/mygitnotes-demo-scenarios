@@ -18,3 +18,5 @@ A *returned* status next to *waiting* and *collected*. The shopkeeper picks a re
 - Does a return need a pickup code, like [collecting a parcel](spec-pickup-flow.md)?
 - Who tells the carrier? Probably the shopkeeper, outside the app.
 - How long should a parcel wait before it is eligible for return?
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/project).*

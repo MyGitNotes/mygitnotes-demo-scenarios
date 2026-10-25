@@ -73,3 +73,5 @@ A rollback is called by @maren, on advice from @tomasz, if any trigger fires:
 - a shopkeeper cannot hand over a parcel with a valid code.
 
 Rolling back the app does not roll back the database. Version 1.1 adds columns and never removes one, so the old app keeps working against the new schema, and a fix goes forward as 1.1.1 once the cause is known.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

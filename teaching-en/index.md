@@ -21,3 +21,5 @@ A grade 7 science lesson on photosynthesis, kept as notes a teacher can both pla
 - [Lesson slides](lesson-slides.md)
 - [Worksheet](worksheet.md)
 - [Answer key](answer-key.md)
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/teaching).*

@@ -37,3 +37,5 @@ I asked everyone the same three questions: where do you keep your tea, what made
 ## Photos and field notes
 
 Kept on my phone, not in this notebook. If one becomes evidence in a later decision, I will paste it into the note that uses it.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

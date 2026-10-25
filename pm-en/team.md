@@ -38,3 +38,5 @@ Decisions that change the plan use DACI: one **driver** who prepares the questio
 - A task has a due date. Without one it is an idea, and it stays in the notes until someone dates it.
 - Mondays at 10:00 there is a fifteen-minute sync. On Fridays @maren writes the weekly status.
 - Status colours: **green** means the next milestone is on track, **amber** means a risk has a name and a date, **red** means the next milestone will slip.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

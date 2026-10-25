@@ -38,3 +38,5 @@ A one-page summary for the partner who has not read the redlines. The full text 
 ## Still open
 
 The six-month cap needs the partner's sign-off. See the reviewer's remark on 4.1.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/contract).*

@@ -26,3 +26,5 @@ The v1.0 retro found that the shops that called us were the ones who had read no
 - [ ] @rhea Lay out the one-page help sheet 🔼 🛫 2026-10-26 📅 2026-11-02
 - [ ] @leo Write the message that tells shops what changes on Thursday 🔽 🛫 2026-11-02 📅 2026-11-09
 - [ ] @leo Phone each pilot shop the day before release ⏫ 🛫 2026-11-11 📅 2026-11-11
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

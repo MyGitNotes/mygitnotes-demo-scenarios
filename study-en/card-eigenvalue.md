@@ -24,3 +24,5 @@ $$
 $A = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}$ has eigenvalues $3$ (eigenvector $(1,1)$) and $1$ (eigenvector $(1,-1)$).
 
 Eigenvectors are the directions a [linear map](card-linear-map.md) does not turn (it may stretch or flip them). Back to the start: [Vectors](card-vector.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/study).*

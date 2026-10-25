@@ -23,3 +23,5 @@ status: 定稿
 - [全書大綱](book.outline.md)
 - [寫作守則](style-notes.md)
 - 各章：[一](chapters/01-morning-crossing.md)、[二](chapters/02-captains-ledger.md)、[三](chapters/03-winter-timetable.md)、[四](chapters/04-the-vote.md)
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/writing)。*

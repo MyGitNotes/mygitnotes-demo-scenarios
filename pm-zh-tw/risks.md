@@ -28,3 +28,5 @@ status: 進行中
 ## 已結案
 
 - **R0，1.0 的商店審核花了三天。** 10 月 5 日由[發布計畫](release-plan.md)裡「三個工作天」的緩衝結案，這是[1.0 回顧會議](meetings/2026-10-02-v1-retro.md)的行動事項。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

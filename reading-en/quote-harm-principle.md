@@ -23,3 +23,5 @@ Power may rightly be used against an adult member of a community, against his wi
 - "His own good" is excluded. This is what makes the principle anti-paternalist.
 
 Related: [Why silence is a mistake](argument-silencing.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/reading).*

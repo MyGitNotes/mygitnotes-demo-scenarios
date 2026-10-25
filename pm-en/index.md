@@ -32,3 +32,5 @@ The dates in these notes are real calendar dates, and the to-do tool compares th
 | Milestones | [Scope freeze](milestones/m1-scope-freeze.md), [Feature complete](milestones/m2-feature-complete.md), [Release candidate](milestones/m3-release-candidate.md), [Go/no-go](milestones/m4-go-no-go.md), [Release day](milestones/m5-release.md) |
 | Meetings | [v1.0 retro](meetings/2026-10-02-v1-retro.md), [Kickoff](meetings/2026-10-05-kickoff.md), [Monday sync, 19 October](meetings/2026-10-19-sync.md) |
 | Weekly status | [9 October](status/2026-10-09.md), [16 October](status/2026-10-16.md), [23 October](status/2026-10-23.md) |
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

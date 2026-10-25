@@ -12,3 +12,5 @@ status: done
 5. Plants make the sugar that starts every food chain, and the oxygen that animals breathe.
 
 Back to the [worksheet](worksheet.md) or the [lesson plan](lesson-plan.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/teaching).*

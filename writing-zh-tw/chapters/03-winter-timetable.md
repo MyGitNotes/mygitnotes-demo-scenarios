@@ -26,3 +26,5 @@ status: 修改中
 我不認為任何一邊不講理。分歧不在數字，而在一座島是不是該為了一張時刻表開口求人。
 
 *修改備註：發稿前，要把 1,300 萬元這個數字，拿去對照縣府公布的預算。*
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/writing)。*

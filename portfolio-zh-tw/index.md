@@ -27,3 +27,5 @@ status: 可發布
 | 系列作 | [小港灣](small-harbours.md) | 可發布 |
 | 流程 | [我怎麼工作](how-i-work.md) | 修飾中 |
 | 不公開 | [案例檢查表](case-study-checklist.md) | 草稿 |
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/portfolio)。*

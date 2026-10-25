@@ -22,3 +22,5 @@ status: 進行中
 - [條款變更摘要](clause-changes.md)：各版本之間動了哪些條款。
 - [審閱檢核表](review-checklist.md)：每份運送合約都要問的問題。
 - [協商紀錄](negotiation-log.md)：每個版本背後的電話和信件。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/contract)。*

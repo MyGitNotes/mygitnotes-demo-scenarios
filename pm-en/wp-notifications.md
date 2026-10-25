@@ -29,3 +29,5 @@ The code generator and the provider account are done, and the message text is ag
 - [ ] @tomasz Switch the first message to the registered sender and time it on a real phone ⏫ 🛫 2026-10-26 📅 2026-10-28
 - [ ] @tomasz Add the reminder job for parcels still waiting after three days 🔼 🛫 2026-10-26 📅 2026-10-30
 - [ ] @ines Add the switch that turns reminders off, never the first message 🔼 🛫 2026-10-26 📅 2026-10-30
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

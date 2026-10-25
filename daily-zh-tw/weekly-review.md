@@ -39,3 +39,5 @@ status: 進行中
 - [ ] 替海報案子畫兩張構想草圖 📅 2026-10-26
 - [ ] 寄出封面案子的請款單 📅 2026-10-26
 - [ ] 讀完[閱讀清單](reading-list.md)那本書的第三章 📅 2026-10-31
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/daily)。*

@@ -22,3 +22,5 @@ Read for context only. The "I think, therefore I am" of the *Discourse* is the e
 ## A note on translation
 
 The Descartes translation is my own and stays close to the Latin. For Mill the "translation" block is a plain-English paraphrase, not a different language, so the two can be read at a glance.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/reading).*

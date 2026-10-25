@@ -66,3 +66,5 @@ Both are open-licence (SIL OFL) and free to use on print, web and the app. I che
 - [ ] Dana's written sign-off on the colourways
 
 Sign-off goes by email, with these files attached, so there is one dated record of what was approved.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

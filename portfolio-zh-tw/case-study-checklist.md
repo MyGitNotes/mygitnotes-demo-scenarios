@@ -43,3 +43,5 @@ status: 草稿
 | 小港灣 | 可發布（它是系列作，不是案例，所以不寫第 1、2 部分） |
 
 目前是兩篇案例加一個系列作：網站還差一篇案例，才湊得到三篇。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/portfolio)。*

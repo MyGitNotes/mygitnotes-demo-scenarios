@@ -19,3 +19,5 @@ A first course in linear algebra, kept the way a student keeps it: [lecture note
 ## The cards
 
 [Vectors](card-vector.md) → [Span](card-span.md) → [Independence](card-independence.md) → [Basis and dimension](card-basis.md) → [Linear maps](card-linear-map.md) → [Eigenvalues](card-eigenvalue.md)
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/study).*

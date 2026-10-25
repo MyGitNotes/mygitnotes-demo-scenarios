@@ -42,3 +42,5 @@ Ink blue and teal against yellow lamps, with one red boat as a small surprise. T
 Giclée prints on cotton rag paper, A4 and A3, in an edition of 50 per picture. A custom harbour, a village you love painted at the time of day you remember it, takes about three weeks.
 
 Under *Compilations*, **Small Harbours** lays the four paintings out in a row so the day reads from left to right.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/portfolio).*

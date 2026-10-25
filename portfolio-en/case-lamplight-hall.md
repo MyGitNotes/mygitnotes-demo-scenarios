@@ -81,3 +81,5 @@ The closing night is the reel moon over the street where the lanterns are hung, 
 Numbers are from Hedda's door tally. The set was reprinted twice, and a bakery asked to keep the lantern poster up after the season ended.
 
 Under *Compilations*, **Lamplight Hall posters** shows the thumbnail sheet and the three finished posters side by side.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/portfolio).*

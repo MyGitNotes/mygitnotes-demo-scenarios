@@ -22,3 +22,5 @@ Harbourmaster of Port Harrow. She ferries supplies to the rock but has not set f
 ## What she knows
 
 She delivers food but never oil. She stopped landing on the rock after hearing the humming at night, and she has told no one.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

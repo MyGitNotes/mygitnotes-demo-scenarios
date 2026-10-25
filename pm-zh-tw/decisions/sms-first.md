@@ -49,3 +49,5 @@ status: 已完成
 ## 任務
 
 - [ ] @沛珊 兩週後看試用店家的簡訊帳單，決定提醒要不要維持一則 🔽 🛫 2026-11-16 📅 2026-11-27
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

@@ -34,3 +34,5 @@ sequenceDiagram
 送達回執、每位鄰居自選語言，以及 LINE 官方帳號和 App 推播這兩個之後再加的管道（先用簡訊）。這幾項都在待排。
 
 相關：[取件流程](spec-pickup-flow.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/project)。*

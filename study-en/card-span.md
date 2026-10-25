@@ -18,3 +18,5 @@ $$
 Example: $\operatorname{span}\{(1,0),(0,1)\} = \mathbb{R}^2$, but $\operatorname{span}\{(1,1)\}$ is only the line $y = x$.
 
 Builds on [Vectors](card-vector.md). The question "is anything wasted?" leads to [Independence](card-independence.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/study).*

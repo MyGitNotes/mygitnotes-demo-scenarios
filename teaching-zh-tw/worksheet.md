@@ -14,3 +14,5 @@ status: 已完成
 - [ ] 5. 用一句話說明：動物為什麼要依賴光合作用？
 
 答案在[參考答案](answer-key.md)。簡報在[這裡](lesson-slides.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/teaching)。*

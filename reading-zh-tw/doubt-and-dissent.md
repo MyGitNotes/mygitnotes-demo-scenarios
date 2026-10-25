@@ -39,3 +39,5 @@ status: 進行中
 笛卡兒獨自懷疑，彌爾需要別人。一個人單獨懷疑，能不能做到和一個社群的異議一樣好？我傾向認為不行，因為我懷疑的內容，都來自我已經聽過的話。這會讓彌爾的論點比他自己說的更強。
 
 來源見[書目](bibliography.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/reading)。*

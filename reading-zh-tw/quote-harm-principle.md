@@ -23,3 +23,5 @@ That the only purpose for which power can be rightfully exercised over any membe
 - 「為了他自己好」被排除在外，這使這個原則反對家長式的干預。
 
 相關：[為什麼不能封殺意見](argument-silencing.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/reading)。*

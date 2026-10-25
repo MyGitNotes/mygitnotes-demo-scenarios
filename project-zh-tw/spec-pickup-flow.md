@@ -33,3 +33,5 @@ flowchart TD
 - 用姓名比對時，要不要請鄰居出示證件？不然任何人報出名字就能領走包裹。
 
 相關：[資料模型](data-model.md)和[通知](spec-notifications.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/project)。*

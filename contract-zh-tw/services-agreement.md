@@ -69,3 +69,5 @@ v3 新增。有保險，上限內的賠償才真的付得出來，所以保單�
 ## 第六條 準據法與管轄
 
 本合約以中華民國法律為準據法。因本合約涉訟時，以甲方所在地地方法院為第一審管轄法院。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/contract)。*

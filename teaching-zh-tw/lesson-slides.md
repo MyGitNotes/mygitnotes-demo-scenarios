@@ -73,3 +73,5 @@ status: 已完成
 :::summary{slide="5"}
 記住：**二氧化碳加水，在光能之下變成葡萄糖和氧氣。** 寫成式子：6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂。接下來寫學習單。
 :::
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/teaching)。*

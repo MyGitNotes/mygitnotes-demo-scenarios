@@ -44,3 +44,5 @@ status: 修飾中
 ## 我不會做的事
 
 保證我無法衡量的成果、為了提早結束而趕一輪修改，或是把取捨藏起來不說。如果預算買不到好的答案，我寧可在第一次通話就告訴你。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/portfolio)。*

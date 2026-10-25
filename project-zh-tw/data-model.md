@@ -40,3 +40,5 @@ erDiagram
 - 鄰居是選填。老闆可以替一個沒人註冊過的名字登記包裹。
 
 這些欄位怎麼變化，見[取件流程](spec-pickup-flow.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/project)。*

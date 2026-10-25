@@ -14,3 +14,5 @@ status: 已揭露
 **理智檢定：** 那位調查員 0/1d3。
 
 **接到：** [低鳴聲](clue-humming.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/trpg)。*

@@ -16,3 +16,5 @@ status: 定稿
 我站在欄杆邊數了一下：十四個人、兩輛小貨車、一整個棧板的雞蛋。如果晨光號不開，他們誰也到不了對岸，也沒有人說得出該怎麼辦。
 
 下一章要問：這種情況持續多久了？船長自己的紀錄怎麼說？
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/writing)。*

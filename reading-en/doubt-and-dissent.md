@@ -39,3 +39,5 @@ Descartes' side of the comparison, set out the way the Mill note does.
 Descartes doubts alone and Mill needs other people. Can a single thinker doubt as well as a community can dissent? I lean towards no, because my doubts come from what I have already heard. That would make Mill's case stronger than he put it.
 
 Sources: [Bibliography](bibliography.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/reading).*

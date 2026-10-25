@@ -21,3 +21,5 @@ Cogitare? Hic invenio, cogitatio est, haec sola a me divelli nequit; ego sum, eg
 - 這份確定性有範圍：它只涵蓋「我思考的時候我存在」，不涵蓋「我有身體」或「世界就是看起來的那樣」。
 - 注意「能持續多久」這個問題。笛卡兒沒有說思考停止後他還存在，只說思考保證了存在。
 - 和彌爾的立場比較：[懷疑與異議](doubt-and-dissent.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/reading)。*

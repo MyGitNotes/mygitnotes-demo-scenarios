@@ -28,3 +28,5 @@ A bug found in beta gets a title that a shopkeeper would understand, the build n
 - [ ] @kofi Run the full regression on the first beta build ⏫ 🛫 2026-10-30 📅 2026-11-03
 - [ ] @kofi @leo Run the counter flow in the three pilot shops 🔼 🛫 2026-11-02 📅 2026-11-05
 - [ ] @kofi Retest on the release candidate 🔺 🛫 2026-11-06 📅 2026-11-09
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

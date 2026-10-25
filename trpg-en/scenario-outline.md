@@ -69,3 +69,5 @@ A clue the table needs to continue is never behind a failed roll. Let a failure 
 ## Keeper's notes
 
 Keep the pace of a ghost story, not a fight. If the table is quick, cut the crossing. If the table is slow, let the fog do the work.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

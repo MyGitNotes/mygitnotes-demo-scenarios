@@ -20,3 +20,5 @@ status: 已熟悉
 ## 自我檢查
 
 $(1, 2) + 3\cdot(0, 1) = (1, 5)$。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/study)。*

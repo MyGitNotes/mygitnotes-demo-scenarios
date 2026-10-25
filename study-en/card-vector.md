@@ -20,3 +20,5 @@ You can add vectors and scale them, and that is all the structure we need. Next:
 ## Check yourself
 
 $(1, 2) + 3\cdot(0, 1) = (1, 5)$.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/study).*

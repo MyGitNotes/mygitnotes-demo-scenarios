@@ -45,3 +45,5 @@ Website design, photography, naming of individual teas, and any food packaging b
 - Can the signwriter paint a thin line? (Ask before I design one.)
 
 Next: [Research](research.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

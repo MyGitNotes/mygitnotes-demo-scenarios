@@ -42,3 +42,5 @@ status: 可發布
 印在純棉紙上的微噴版畫，A4 和 A3 兩種尺寸，每張限量 50 版。客製的漁港，也就是把你愛的小鎮，畫成你記得的那個時刻，大約需要三週。
 
 在「合輯」裡打開「小港灣」，四張畫並排成一列，一天的光線就從左讀到右。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/portfolio)。*

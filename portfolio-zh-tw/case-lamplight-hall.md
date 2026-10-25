@@ -81,3 +81,5 @@ status: 可發布
 數字來自方筱雯在門口的人工計數。整組海報加印過兩次，有一間麵包店在檔期結束後，還是請我們讓燈籠那張繼續貼著。
 
 在「合輯」裡打開「燈火影廳海報」，可以看到小稿頁和三張完成的海報並排。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/portfolio)。*

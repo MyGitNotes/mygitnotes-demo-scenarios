@@ -26,3 +26,5 @@ status: 已上線
 ## 第一版沒有的
 
 條碼掃描（[條碼掃描](spec-barcode-scan.md)）和退貨（[退貨](spec-returns.md)）還在待排。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/project)。*

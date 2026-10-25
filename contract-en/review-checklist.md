@@ -18,3 +18,5 @@ The questions asked of every draft, whoever wrote it. Check them off while readi
 - [ ] Has the partner signed off on the open points in [Clause changes](clause-changes.md)?
 
 Add your own checks; this list is plain Markdown.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/contract).*

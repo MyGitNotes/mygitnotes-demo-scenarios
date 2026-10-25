@@ -24,3 +24,5 @@ Equivalently: no vector in the list lies in the [span](card-span.md) of the othe
 $(1,0)$, $(0,1)$ are independent. $(1,1)$, $(2,2)$ are not, because $2\cdot(1,1) - (2,2) = \mathbf{0}$.
 
 Independent vectors that also span give a [Basis](card-basis.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/study).*

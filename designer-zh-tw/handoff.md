@@ -66,3 +66,5 @@ status: 審閱中
 - [ ] 周老闆對配色的書面簽核
 
 簽核用 email 回覆，附上這些檔案，這樣「核准了什麼」就有一份註明日期的紀錄。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/designer)。*

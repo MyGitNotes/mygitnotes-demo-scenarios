@@ -29,3 +29,5 @@ Open question from the spec: what the shopkeeper sees when the code is wrong and
 - [ ] @tomasz Make a code work once and refuse it after collection ⏫ 🛫 2026-10-21 📅 2026-10-27
 - [ ] @maren @rhea Decide the wording shown when the code does not match and a name is tried 🔽 🛫 2026-10-23 📅 2026-10-28
 - [ ] @kofi Write the test cases for a wrong code, a used code and two parcels with one name 🔼 🛫 2026-10-26 📅 2026-10-29
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

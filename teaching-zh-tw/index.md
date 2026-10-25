@@ -21,3 +21,5 @@ status: 已完成
 - [課堂簡報](lesson-slides.md)
 - [學習單](worksheet.md)
 - [參考答案](answer-key.md)
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/teaching)。*

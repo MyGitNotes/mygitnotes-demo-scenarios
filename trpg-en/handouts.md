@@ -35,3 +35,5 @@ The keeper at the time reported nothing unusual.
 
 *10 October.* Do not let the lamp go out.
 :::
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

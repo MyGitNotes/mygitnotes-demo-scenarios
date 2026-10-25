@@ -12,3 +12,5 @@ A low note, almost below hearing, that rises with the tide. It stops when the la
 **What it means:** the lamp holds something down. Players who connect the beam to the silence will guess the truth before [Vale](npc-ambrose-vale.md) explains it.
 
 **Sanity:** 0/1d4 at first hearing.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

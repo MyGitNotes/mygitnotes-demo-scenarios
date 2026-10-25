@@ -30,3 +30,5 @@ He who knows only his own side of the case, knows little of that.
 第一句話說，就算多數壓倒性地站在一邊，封殺還是不對。第二句話給了一個理由：沒有碰過最好的反對意見，就不可能真正持有一個看法。兩句都用在[為什麼不能封殺意見](argument-silencing.md)。
 
 單獨一位異議者那句話，和[傷害原則](quote-harm-principle.md)是同一類主張：它限制的是多數能對少數做什麼。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/reading)。*

@@ -54,3 +54,5 @@ status: 已定案
 - 葉子的曲線還是我在捷運上畫的那一版，交付前要在向量檔裡重畫。
 
 下一步：[應用延伸](applications.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/designer)。*

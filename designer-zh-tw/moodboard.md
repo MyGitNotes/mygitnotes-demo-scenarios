@@ -43,3 +43,5 @@ status: 已定案
 | 炭黑 | `#30312D` | 內文 |
 
 在「合輯」裡有一個「情緒板牆」，把這四張圖用縮圖並排，開會時我就是這樣給業主看的。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/designer)。*

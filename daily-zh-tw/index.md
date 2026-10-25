@@ -21,3 +21,5 @@ status: 已完成
 - 每日筆記：[週一](journal/2026-10-19.md)、[週二](journal/2026-10-20.md)、[週三](journal/2026-10-21.md)、[週四](journal/2026-10-22.md)、[週五](journal/2026-10-23.md)
 - [每週回顧](weekly-review.md)
 - [閱讀清單](reading-list.md)
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/daily)。*

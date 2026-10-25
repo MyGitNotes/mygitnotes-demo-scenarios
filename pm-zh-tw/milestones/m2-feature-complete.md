@@ -23,3 +23,5 @@ milestone: 2026-10-30
 
 - [ ] @沛珊 決定審核若遲遲不來，測試版要不要先用服務商的共用發送號碼 🔺 🛫 2026-10-26 📅 2026-10-28
 - [ ] @品蓁 @宥辰 打出第一個測試版 🔼 🛫 2026-10-29 📅 2026-10-30
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

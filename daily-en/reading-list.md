@@ -21,3 +21,5 @@ Books and articles I want to get to, in rough order. Tick them off as I finish.
 - [x] A long essay on colour and mood ✅ 2026-10-15
 
 Link a book to its own note when I have something to say about it. For now a line is enough.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/daily).*

@@ -44,3 +44,5 @@ One person who can decide. A single list of feedback per round instead of severa
 ## What I will not do
 
 Promise a result I cannot measure, rush a round so it ends early, or hide a trade-off. If the budget does not cover a good answer, I would rather say so on the first call.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/portfolio).*

@@ -28,3 +28,5 @@ Updated Friday 23 October. Each risk has one owner, a trigger that tells us it i
 ## Closed
 
 - **R0, store review took three days for v1.0.** Closed on 5 October by the three-working-day buffer in the [release plan](release-plan.md), an action from the [v1.0 retro](meetings/2026-10-02-v1-retro.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

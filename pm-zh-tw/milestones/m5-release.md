@@ -28,3 +28,5 @@ milestone: 2026-11-12
 ## 任務
 
 - [ ] @品蓁 @宥辰 開始分批上線，先放 10% 🔺 🛫 2026-11-12 📅 2026-11-12
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

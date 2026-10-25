@@ -27,3 +27,5 @@ This notebook is the working copy of one designer's portfolio. Tamsin Verrill is
 | Series | [Small Harbours](small-harbours.md) | ready |
 | Process | [How I work](how-i-work.md) | polishing |
 | Private | [Case-study checklist](case-study-checklist.md) | draft |
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/portfolio).*

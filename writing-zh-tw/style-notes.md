@@ -14,3 +14,5 @@ status: 定稿
 - **段落要短。** 盡量不超過 120 字，一段一個意思。
 
 章節順序見[全書大綱](book.outline.md)。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/writing)。*

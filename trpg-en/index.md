@@ -25,3 +25,5 @@ This notebook is a Game Master's prep for a one-shot of *Call of Cthulhu* (7th e
 | What to hand over | [Handouts](handouts.md) |
 | Where it happens | [Map of Gull Rock](map-gull-rock.md) |
 | What they can find | [Oil receipts](clue-oil-receipts.md), [Logbook pages](clue-logbook-pages.md), [The humming](clue-humming.md), [The lower door](clue-lower-door.md) |
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

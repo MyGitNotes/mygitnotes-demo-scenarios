@@ -34,3 +34,5 @@ Cubbyshelf is a small app for corner shops that hold parcels for neighbours. A s
 - [Returns](spec-returns.md)｜questions to answer before it is specified
 :::
 ::::
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/project).*

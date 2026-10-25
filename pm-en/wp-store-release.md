@@ -27,3 +27,5 @@ If review rejects the iOS build, @ines replies the same day, and the go/no-go ca
 - [ ] @ines Submit the Android bundle for review with managed publishing on 🔼 🛫 2026-11-06 📅 2026-11-06
 - [ ] @tomasz Watch the error rate and the message count for 24 hours after each rollout step 🔼 🛫 2026-11-12 📅 2026-11-16
 - [ ] @maren Raise the rollout to 50%, then to 100%, when no trigger has fired 🔼 🛫 2026-11-13 📅 2026-11-16
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/pm).*

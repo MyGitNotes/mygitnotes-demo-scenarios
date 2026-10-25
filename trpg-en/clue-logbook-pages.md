@@ -14,3 +14,5 @@ Entries up to 8 October are in Vale's neat hand. After that a second hand takes 
 **Sanity:** 0/1d3 for that investigator.
 
 **Points to:** [the humming](clue-humming.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/trpg).*

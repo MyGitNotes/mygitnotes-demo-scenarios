@@ -40,3 +40,5 @@ erDiagram
 - A neighbour is optional. A shopkeeper can check in a parcel for a name nobody has registered.
 
 See [Pickup flow](spec-pickup-flow.md) for how these fields change.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/project).*

@@ -17,3 +17,5 @@ status: 修改中
     鄉民代表會。讓兩邊各自說出最強的理由，不下結論。
 - 附錄
   - [寫作守則](style-notes.md)
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/writing)。*

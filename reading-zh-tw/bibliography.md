@@ -22,3 +22,5 @@ status: 已完成
 ## 關於翻譯
 
 笛卡兒的譯文是我自己譯的，盡量貼近拉丁文。彌爾的原文本來就是英文，所以「譯文」區塊放的是我的中文翻譯，讀的時候可以一句對一句。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/reading)。*

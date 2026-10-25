@@ -12,3 +12,5 @@ status: 未揭露
 **代表什麼：** 燈壓著某個東西。玩家如果把光束和寂靜連在一起想，會在[韋爾](npc-ambrose-vale.md)開口之前就猜到真相。
 
 **理智檢定：** 第一次聽到，0/1d4。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/trpg)。*

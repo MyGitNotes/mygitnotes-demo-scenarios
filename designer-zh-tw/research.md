@@ -37,3 +37,5 @@ status: 參考
 ## 照片和田調紀錄
 
 放在我的手機裡，沒有收進這個筆記本。之後哪一張要當作某個決定的依據，我會把它貼到用到它的那份筆記裡。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/designer)。*

@@ -43,3 +43,5 @@ Warm, domestic, hand-made, uneven on purpose, quiet.
 | Charcoal | `#30312D` | Body text |
 
 Under *Compilations*, the **Moodboard wall** puts the four images side by side as thumbnails, which is how I show the board on a call.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

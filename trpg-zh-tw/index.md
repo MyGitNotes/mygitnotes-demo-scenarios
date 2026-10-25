@@ -25,3 +25,5 @@ status: 參考
 | 要給玩家的文件 | [玩家手稿](handouts.md) |
 | 事發地點 | [海鷗岩地圖](map-gull-rock.md) |
 | 玩家可能找到的線索 | [油料收據](clue-oil-receipts.md)、[守燈日誌](clue-logbook-pages.md)、[低鳴聲](clue-humming.md)、[地下鐵門](clue-lower-door.md) |
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/trpg)。*

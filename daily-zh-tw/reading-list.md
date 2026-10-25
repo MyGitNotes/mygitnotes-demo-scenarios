@@ -21,3 +21,5 @@ status: 進行中
 - [x] 一篇談色彩與情緒的長文 ✅ 2026-10-15
 
 哪本書讓我有話想說，就替它另開一份筆記。現在先留一行就夠了。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/daily)。*

@@ -22,3 +22,5 @@ status: 參考
 ## 她知道的事
 
 她只送過食物，沒送過油。聽到夜裡的低鳴聲之後，她就不上岩礁了，這件事她沒跟任何人說。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/trpg)。*

@@ -53,3 +53,5 @@ A cut-paper collage in the three palette colours plus charcoal. A different illu
 ## What I would change
 
 The tin works and the sign works. The app is the weakest because I have not seen the developer's component library yet: it is a direction, not a design. I have flagged it for review rather than approving it.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

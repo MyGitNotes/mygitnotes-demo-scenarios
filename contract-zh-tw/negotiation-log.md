@@ -53,3 +53,5 @@ status: 已完成
 - 合夥律師簽核 4.1。
 - 向霽川取得保單。
 - 10 月 30 日前簽約。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/contract)。*

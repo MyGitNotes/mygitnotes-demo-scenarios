@@ -23,3 +23,5 @@ This notebook is how the book is kept: an outline that ties the chapters togethe
 - [Book outline](book.outline.md)
 - [Style notes](style-notes.md)
 - Chapters: [1](chapters/01-morning-crossing.md), [2](chapters/02-captains-ledger.md), [3](chapters/03-winter-timetable.md), [4](chapters/04-the-vote.md)
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/writing).*

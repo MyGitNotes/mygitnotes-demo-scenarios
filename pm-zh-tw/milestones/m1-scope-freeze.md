@@ -22,3 +22,5 @@ milestone: 2026-10-16
 ## 任務
 
 - [x] @沛珊 凍結 1.1 版的範圍清單並發給全組 ⏫ 🛫 2026-10-12 📅 2026-10-16 ✅ 2026-10-16
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/pm)。*

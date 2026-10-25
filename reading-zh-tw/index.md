@@ -22,3 +22,5 @@ status: 已完成
 - 論證：[傷害原則](argument-harm-principle.md)、[封殺意見](argument-silencing.md)
 - 比較：[懷疑與異議](doubt-and-dissent.md)
 - [書目](bibliography.md)
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/reading)。*

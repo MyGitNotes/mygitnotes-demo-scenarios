@@ -18,3 +18,5 @@ status: 定稿
 船長不肯為這件事爭辯。他合上本子，去看潮水。
 
 接著要談：它要花多少錢，冬天又是誰來付。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/writing)。*

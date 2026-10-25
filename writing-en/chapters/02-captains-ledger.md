@@ -18,3 +18,5 @@ That is the ledger's quiet argument. The ferry is not carrying a shrinking place
 The captain will not argue it. He closes the book and checks the tide.
 
 Next: what it costs, and who pays in winter.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/writing).*

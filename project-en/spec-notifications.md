@@ -34,3 +34,5 @@ A neighbour gets at most two messages per parcel: the pickup message and, after 
 Delivery receipts, a preferred language per neighbour, and push notifications for neighbours who install the app (a later channel, after SMS). All three are on the backlog.
 
 Related: [Pickup flow](spec-pickup-flow.md).
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/project).*

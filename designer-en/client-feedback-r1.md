@@ -43,3 +43,5 @@ Comment 6 is about the fern seal, so it is pinned on direction B.
 - Dana decided quickly because the mark was her door. That is the best case, and I should not count on it for the next client.
 - Two of six comments were really the same problem in different words (2 and 5). When the client and the critique agree, I stop debating and fix it.
 - This feedback uses her first round of changes. Round 2 answers it, and one round is left in the fee.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/designer).*

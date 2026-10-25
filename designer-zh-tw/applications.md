@@ -53,3 +53,5 @@ status: 審閱中
 ## 我會再改的地方
 
 茶罐和招牌都過關。App 最弱，因為我還沒看到工程師的元件庫：這只是方向，不是設計稿。所以我把它標成待審閱，沒有直接定案。
+
+*這是 [MyGitNotes](https://mygitnotes.com/zh-tw) 的範例筆記本。[這個範例在示範什麼](https://mygitnotes.com/zh-tw/use-cases/designer)。*

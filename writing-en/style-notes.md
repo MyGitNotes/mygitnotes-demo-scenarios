@@ -14,3 +14,5 @@ Rules the author set for the whole book, so the chapters sound like one person.
 - **Short paragraphs.** Aim for under 120 words, and one idea each.
 
 See the [outline](book.outline.md) for the order of chapters.
+
+*This is a sample notebook from [MyGitNotes](https://mygitnotes.com/). [What this example shows](https://mygitnotes.com/use-cases/writing).*
