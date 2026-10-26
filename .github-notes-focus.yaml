@@ -1,4 +1,4 @@
-version: 2
+version: 3
 focuses:
 # generated-views
   - id: trpg-en-table
