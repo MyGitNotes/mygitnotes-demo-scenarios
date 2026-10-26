@@ -5,6 +5,15 @@ status: in progress
 ---
 # Risk register
 
+:::bars{title="Exposure of each open risk" unit="points" max="9"}
+- **R1 sender name**｜9｜Happening
+- R2 store review｜6
+- R3 same-name handover｜6
+- R4 one backend engineer｜6
+- R5 message cost｜4
+- R6 help sheet unread｜4
+:::
+
 Updated Friday 23 October. Each risk has one owner, a trigger that tells us it is happening, and a next step. Likelihood (L) and impact (I) are rated 1 (low) to 3 (high), and exposure is the product of the two. A risk of 6 or more is read out at every Monday sync, and the go/no-go call reads all of them.
 
 | ID | Risk | L | I | Exposure | Owner | Trigger | What we do |
@@ -15,15 +24,6 @@ Updated Friday 23 October. Each risk has one owner, a trigger that tells us it i
 | R4 | Only one backend engineer, so an absence stops the message work | 2 | 3 | 6 | @maren | @tomasz is out for two days or more before the release candidate | @ines reviews every backend change and can run the reminder job locally |
 | R5 | An SMS costs more than the shops will accept | 2 | 2 | 4 | @maren | The pilot shops' SMS bill is more than they said they would accept, see [SMS first](decisions/sms-first.md) | Reminders are capped at one per parcel; read the bill after two weeks |
 | R6 | Shopkeepers do not read the help sheet and are surprised at the counter | 2 | 2 | 4 | @leo | A pilot shop phones with a question the sheet answers | Phone calls the day before, the sheet inside the app as well as on paper |
-
-:::bars{title="Exposure of each open risk" unit="points" max="9"}
-- **R1 sender name**｜9｜Happening
-- R2 store review｜6
-- R3 same-name handover｜6
-- R4 one backend engineer｜6
-- R5 message cost｜4
-- R6 help sheet unread｜4
-:::
 
 ## Closed
 

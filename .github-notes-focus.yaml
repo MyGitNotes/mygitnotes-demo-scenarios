@@ -55,14 +55,17 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 30
           tabs:
             - { kind: note, path: pm-en/release-plan.md }
         - kind: pane
           id: p2
+          size: 30
           tabs:
             - { kind: note, path: pm-en/status/2026-10-23.md }
         - kind: pane
           id: p3
+          size: 40
           tabs:
             - { kind: note, path: pm-en/risks.md }
   - id: pm-zh-tw-friday
@@ -75,14 +78,17 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 30
           tabs:
             - { kind: note, path: pm-zh-tw/release-plan.md }
         - kind: pane
           id: p2
+          size: 30
           tabs:
             - { kind: note, path: pm-zh-tw/status/2026-10-23.md }
         - kind: pane
           id: p3
+          size: 40
           tabs:
             - { kind: note, path: pm-zh-tw/risks.md }
   - id: contract-en-review
@@ -95,10 +101,12 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 28
           tabs:
             - { kind: note, path: contract-en/services-agreement.md }
         - kind: pane
           id: p2
+          size: 72
           tabs:
             - { kind: note, path: contract-en/clause-changes.md }
             - { kind: note, path: contract-en/negotiation-log.md }
@@ -113,10 +121,12 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 28
           tabs:
             - { kind: note, path: contract-zh-tw/services-agreement.md }
         - kind: pane
           id: p2
+          size: 72
           tabs:
             - { kind: note, path: contract-zh-tw/clause-changes.md }
             - { kind: note, path: contract-zh-tw/negotiation-log.md }
@@ -175,15 +185,14 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 45
           tabs:
             - { kind: note, path: study-en/lecture-notes.md }
         - kind: pane
           id: p2
+          size: 55
           tabs:
             - { kind: note, path: study-en/flashcards.compilation.yml }
-        - kind: pane
-          id: p3
-          tabs:
             - { kind: note, path: study-en/concept-map.compilation.yml }
   - id: study-zh-tw-desk
     notebookId: study-zh-tw
@@ -195,15 +204,14 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 45
           tabs:
             - { kind: note, path: study-zh-tw/lecture-notes.md }
         - kind: pane
           id: p2
+          size: 55
           tabs:
             - { kind: note, path: study-zh-tw/flashcards.compilation.yml }
-        - kind: pane
-          id: p3
-          tabs:
             - { kind: note, path: study-zh-tw/concept-map.compilation.yml }
   - id: reading-en-desk
     notebookId: reading-en
@@ -215,17 +223,20 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 26
           tabs:
             - { kind: note, path: reading-en/quote-harm-principle.md }
             - { kind: note, path: reading-en/quote-cogito.md }
             - { kind: note, path: reading-en/quote-silencing.md }
         - kind: pane
           id: p2
+          size: 26
           tabs:
             - { kind: note, path: reading-en/argument-harm-principle.md }
             - { kind: note, path: reading-en/argument-silencing.md }
         - kind: pane
           id: p3
+          size: 48
           tabs:
             - { kind: note, path: reading-en/doubt-and-dissent.md }
             - { kind: note, path: reading-en/bibliography.md }
@@ -239,17 +250,20 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 26
           tabs:
             - { kind: note, path: reading-zh-tw/quote-harm-principle.md }
             - { kind: note, path: reading-zh-tw/quote-cogito.md }
             - { kind: note, path: reading-zh-tw/quote-silencing.md }
         - kind: pane
           id: p2
+          size: 26
           tabs:
             - { kind: note, path: reading-zh-tw/argument-harm-principle.md }
             - { kind: note, path: reading-zh-tw/argument-silencing.md }
         - kind: pane
           id: p3
+          size: 48
           tabs:
             - { kind: note, path: reading-zh-tw/doubt-and-dissent.md }
             - { kind: note, path: reading-zh-tw/bibliography.md }
@@ -369,14 +383,17 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 28
           tabs:
             - { kind: note, path: designer-en/round-1-marks.compilation.yml }
         - kind: pane
           id: p2
+          size: 44
           tabs:
             - { kind: note, path: designer-en/client-feedback-r1.md }
         - kind: pane
           id: p3
+          size: 28
           tabs:
             - { kind: note, path: designer-en/round-2-refinement.md }
   - id: designer-zh-tw-round1
@@ -389,14 +406,17 @@ focuses:
       children:
         - kind: pane
           id: p1
+          size: 28
           tabs:
             - { kind: note, path: designer-zh-tw/round-1-marks.compilation.yml }
         - kind: pane
           id: p2
+          size: 44
           tabs:
             - { kind: note, path: designer-zh-tw/client-feedback-r1.md }
         - kind: pane
           id: p3
+          size: 28
           tabs:
             - { kind: note, path: designer-zh-tw/round-2-refinement.md }
   - id: portfolio-en-front-door

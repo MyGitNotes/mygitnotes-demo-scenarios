@@ -5,10 +5,6 @@ status: approved
 ---
 # Client feedback on round 1
 
-Dana answered on the call and followed up by email the next morning. Her words are quoted; each is pinned to the part of the mark it is about and numbered so I can point to it from the next round and she can point to it in her sign-off. I split comments that are **preferences** (her taste) from **problems** (something that will not work), because they get different answers.
-
-## Comments
-
 :::annotate[Dana's comments on direction A]
 ![Direction A: a rounded arch with a leaf inside, in moss green](assets/mark-a-gate-leaf.webp)
 
@@ -26,6 +22,10 @@ Comment 6 is about the fern seal, so it is pinned on direction B.
 
 - {#6 pin x=52.1% y=53.6% resolved by=dana} "I like the fern one too. Could that go on the tins?" *(Preference: keep B.)*
 :::
+
+## How I read them
+
+Dana answered on the call and followed up by email the next morning. Her words are quoted; each is pinned to the part of the mark it is about and numbered so I can point to it from the next round and she can point to it in her sign-off. I split comments that are **preferences** (her taste) from **problems** (something that will not work), because they get different answers.
 
 ## What I answered
 

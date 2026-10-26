@@ -9,9 +9,9 @@ Two authors, two centuries apart, one shared habit: a belief is not yours until 
 
 | | Descartes | Mill |
 | --- | --- | --- |
-| Where the objection comes from | Inside: the sceptical doubt he invents himself | Outside: other people who disagree |
-| What survives | One certainty, [the cogito](quote-cogito.md) | A view held with understanding |
-| What it protects | The knower's own reasons | The liberty of the dissenter, see [silencing](argument-silencing.md) |
+| Doubt from | Inside, his own | Outside, others |
+| Survives | The [cogito](quote-cogito.md) | An understood view |
+| Protects | His own reasons | [Dissenters' liberty](argument-silencing.md) |
 
 ## The cogito as an argument
 

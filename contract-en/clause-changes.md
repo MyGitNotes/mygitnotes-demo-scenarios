@@ -7,15 +7,17 @@ status: done
 
 A one-page summary for the partner who has not read the redlines. The full text and diffs are in the [agreement](services-agreement.md) history.
 
-| Clause | v1 (provider's draft) | v2 (Tallowfield redline) | v3 (compromise) |
+| Clause | v1 draft | v2 redline | v3 compromise |
 | --- | --- | --- | --- |
 | 2.2 Payment | 60 days | 30 days | 30 days |
-| 2.3 Late charge | none | none | 1.5% per month |
-| 3.2 Renewal | 24 months, 30-day notice | 12 months, 90-day notice | 12 months, 60-day notice |
-| 3.3 Termination | Provider only, 14 days | Either party, 60 days | Either party, 45 days |
-| 4.1 Liability cap | 1 month of fees | 12 months of fees | Greater of $108,000 and 6 months of fees |
-| 4.2 Spoilage | Provider not liable | Provider liable for refrigeration failure | Same, with a 7-day claim window and the Provider's temperature log |
-| 4.3 Insurance | none | none | $1,000,000 cargo insurance |
+| 2.3 Late charge | none | none | 1.5% a month |
+| 3.2 Renewal term | 24 months | 12 months | 12 months |
+| 3.2 Renewal notice | 30 days | 90 days | 60 days |
+| 3.3 Who may end | Provider only | Either party | Either party |
+| 3.3 Notice to end | 14 days | 60 days | 45 days |
+| 4.1 Liability cap | 1 month of fees | 12 months of fees | $108,000 or 6 months |
+| 4.2 Spoilage | Not liable | Liable | Liable, 7-day claim |
+| 4.3 Insurance | none | none | $1,000,000 cargo |
 
 :::key-numbers{title="The liability cap in each version" note="Clause 4.1. The fee is $18,000 a month, so the cap is counted in months of fees."}
 - $18,000｜v1, the provider's draft｜1 month of fees

@@ -9,7 +9,7 @@ A first course in linear algebra, kept the way a student keeps it: [lecture note
 
 ## What to try
 
-1. **Start at the study desk.** The notebook opens in the **Study desk** Focus: the [lecture notes](lecture-notes.md), the flashcards and the concept map side by side. The Focus menu in the Notes toolbar switches back to the plain list.
+1. **Start at the study desk.** The notebook opens in the **Study desk** Focus: the [lecture notes](lecture-notes.md) beside the flashcards, with the concept map one tab over. The Focus menu in the Notes toolbar switches back to the plain list.
 2. **Study the cards.** Open the *Linear algebra flashcards* compilation under *Compilations* and press **Start studying**. Each card shows its question first; press *Show next page* to reach the answer. Rating a card moves it to the next stage in the review schedule.
 3. **See the maths.** [Lecture notes](lecture-notes.md) uses KaTeX: inline formulas such as $\mathbf{v}\in\mathbb{R}^n$ and display equations.
 4. **Open the graph.** Open the *Concept map* compilation, or the Graph page: every concept card is a node, and the links between ideas are the edges. Start from [Vectors](card-vector.md) and follow the arrows to [Eigenvalues](card-eigenvalue.md).
