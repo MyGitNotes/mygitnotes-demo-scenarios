@@ -9,11 +9,12 @@ Cubbyshelf is a small app for corner shops that hold parcels for neighbours. A s
 
 ## What to try
 
-1. **Switch to the Kanban view.** The notes are cards in four columns: *backlog*, *specifying*, *building*, *shipped*. Drag a card to another column, or change its status from the dot, and the file's status changes with it.
-2. **Read the diagrams.** [Pickup flow](spec-pickup-flow.md), [Notifications](spec-notifications.md) and [Data model](data-model.md) each carry a diagram written as text. Open any of them in source mode and change a line to watch the diagram redraw.
-3. **Ask the assistant to edit.** [Working with an AI assistant](ai-assistant.md) explains how an assistant can read and change these notes directly, and what you see when it does.
-4. **Scan the status board.** Under *Notes*, a `status-board` groups the notes by how far along they are, and each entry links to its note.
-5. **Edit freely.** This is a demo copy: your changes stay in your browser for 24 hours and never reach anyone else.
+1. **Start at the spec review.** The notebook opens in the **Spec review** Focus: the [product overview](product-overview.md) beside the [pickup flow](spec-pickup-flow.md) diagram, with the [data model](data-model.md) and the [notifications](spec-notifications.md) one tab over. The Focus menu in the Notes toolbar switches back to the plain list.
+2. **Switch to the Kanban view.** The notes are cards in four columns: *backlog*, *specifying*, *building*, *shipped*. Drag a card to another column, or change its status from the dot, and the file's status changes with it.
+3. **Read the diagrams.** [Pickup flow](spec-pickup-flow.md), [Notifications](spec-notifications.md) and [Data model](data-model.md) each carry a diagram written as text. Open any of them in source mode and change a line to watch the diagram redraw.
+4. **Ask the assistant to edit.** [Working with an AI assistant](ai-assistant.md) explains how an assistant can read and change these notes directly, and what you see when it does.
+5. **Scan the status board.** Under *Notes*, a `status-board` groups the notes by how far along they are, and each entry links to its note.
+6. **Edit freely.** This is a demo copy: your changes stay in your browser for 24 hours and never reach anyone else.
 
 ## Notes
 

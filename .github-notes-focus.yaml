@@ -1,5 +1,6 @@
 version: 2
 focuses:
+# generated-views
   - id: trpg-en-table
     notebookId: trpg-en
     name: Session table
@@ -12,23 +13,16 @@ focuses:
           id: p1
           tabs:
             - { kind: note, path: trpg-en/scenario-outline.md }
-        - kind: split
-          id: s2
-          orientation: vertical
-          children:
-            - kind: pane
-              id: p2
-              tabs:
-                - { kind: note, path: trpg-en/npc-ambrose-vale.md }
-                - { kind: note, path: trpg-en/npc-marta-quill.md }
-            - kind: pane
-              id: p3
-              tabs:
-                - { kind: note, path: trpg-en/handouts.md }
         - kind: pane
-          id: p4
+          id: p2
+          tabs:
+            - { kind: note, path: trpg-en/npc-ambrose-vale.md }
+            - { kind: note, path: trpg-en/npc-marta-quill.md }
+        - kind: pane
+          id: p3
           tabs:
             - { kind: note, path: trpg-en/map-gull-rock.md }
+            - { kind: note, path: trpg-en/handouts.md }
   - id: trpg-zh-tw-table
     notebookId: trpg-zh-tw
     name: 跑團桌面
@@ -41,23 +35,16 @@ focuses:
           id: p1
           tabs:
             - { kind: note, path: trpg-zh-tw/scenario-outline.md }
-        - kind: split
-          id: s2
-          orientation: vertical
-          children:
-            - kind: pane
-              id: p2
-              tabs:
-                - { kind: note, path: trpg-zh-tw/npc-ambrose-vale.md }
-                - { kind: note, path: trpg-zh-tw/npc-marta-quill.md }
-            - kind: pane
-              id: p3
-              tabs:
-                - { kind: note, path: trpg-zh-tw/handouts.md }
         - kind: pane
-          id: p4
+          id: p2
+          tabs:
+            - { kind: note, path: trpg-zh-tw/npc-ambrose-vale.md }
+            - { kind: note, path: trpg-zh-tw/npc-marta-quill.md }
+        - kind: pane
+          id: p3
           tabs:
             - { kind: note, path: trpg-zh-tw/map-gull-rock.md }
+            - { kind: note, path: trpg-zh-tw/handouts.md }
   - id: pm-en-friday
     notebookId: pm-en
     name: Friday review
@@ -70,18 +57,14 @@ focuses:
           id: p1
           tabs:
             - { kind: note, path: pm-en/release-plan.md }
-        - kind: split
-          id: s2
-          orientation: vertical
-          children:
-            - kind: pane
-              id: p2
-              tabs:
-                - { kind: note, path: pm-en/status/2026-10-23.md }
-            - kind: pane
-              id: p3
-              tabs:
-                - { kind: note, path: pm-en/risks.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: pm-en/status/2026-10-23.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: pm-en/risks.md }
   - id: pm-zh-tw-friday
     notebookId: pm-zh-tw
     name: 週五檢視
@@ -94,15 +77,365 @@ focuses:
           id: p1
           tabs:
             - { kind: note, path: pm-zh-tw/release-plan.md }
-        - kind: split
-          id: s2
-          orientation: vertical
-          children:
-            - kind: pane
-              id: p2
-              tabs:
-                - { kind: note, path: pm-zh-tw/status/2026-10-23.md }
-            - kind: pane
-              id: p3
-              tabs:
-                - { kind: note, path: pm-zh-tw/risks.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: pm-zh-tw/status/2026-10-23.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: pm-zh-tw/risks.md }
+  - id: contract-en-review
+    notebookId: contract-en
+    name: Review table
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: contract-en/services-agreement.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: contract-en/clause-changes.md }
+            - { kind: note, path: contract-en/negotiation-log.md }
+            - { kind: note, path: contract-en/review-checklist.md }
+  - id: contract-zh-tw-review
+    notebookId: contract-zh-tw
+    name: 審閱桌
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: contract-zh-tw/services-agreement.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: contract-zh-tw/clause-changes.md }
+            - { kind: note, path: contract-zh-tw/negotiation-log.md }
+            - { kind: note, path: contract-zh-tw/review-checklist.md }
+  - id: daily-en-friday
+    notebookId: daily-en
+    name: Friday wrap-up
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: daily-en/journal/2026-10-23.md }
+            - { kind: note, path: daily-en/journal/2026-10-22.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: daily-en/weekly-review.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: daily-en/week-43.compilation.yml }
+            - { kind: note, path: daily-en/reading-list.md }
+  - id: daily-zh-tw-friday
+    notebookId: daily-zh-tw
+    name: 週五收尾
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: daily-zh-tw/journal/2026-10-23.md }
+            - { kind: note, path: daily-zh-tw/journal/2026-10-22.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: daily-zh-tw/weekly-review.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: daily-zh-tw/week-43.compilation.yml }
+            - { kind: note, path: daily-zh-tw/reading-list.md }
+  - id: study-en-desk
+    notebookId: study-en
+    name: Study desk
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: study-en/lecture-notes.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: study-en/flashcards.compilation.yml }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: study-en/concept-map.compilation.yml }
+  - id: study-zh-tw-desk
+    notebookId: study-zh-tw
+    name: 讀書桌
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: study-zh-tw/lecture-notes.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: study-zh-tw/flashcards.compilation.yml }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: study-zh-tw/concept-map.compilation.yml }
+  - id: reading-en-desk
+    notebookId: reading-en
+    name: Reading desk
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: reading-en/quote-harm-principle.md }
+            - { kind: note, path: reading-en/quote-cogito.md }
+            - { kind: note, path: reading-en/quote-silencing.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: reading-en/argument-harm-principle.md }
+            - { kind: note, path: reading-en/argument-silencing.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: reading-en/doubt-and-dissent.md }
+            - { kind: note, path: reading-en/bibliography.md }
+  - id: reading-zh-tw-desk
+    notebookId: reading-zh-tw
+    name: 閱讀桌
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: reading-zh-tw/quote-harm-principle.md }
+            - { kind: note, path: reading-zh-tw/quote-cogito.md }
+            - { kind: note, path: reading-zh-tw/quote-silencing.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: reading-zh-tw/argument-harm-principle.md }
+            - { kind: note, path: reading-zh-tw/argument-silencing.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: reading-zh-tw/doubt-and-dissent.md }
+            - { kind: note, path: reading-zh-tw/bibliography.md }
+  - id: writing-en-desk
+    notebookId: writing-en
+    name: Drafting desk
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: writing-en/book.outline.md }
+            - { kind: note, path: writing-en/style-notes.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: writing-en/the-640-crossing.compilation.yml }
+  - id: writing-zh-tw-desk
+    notebookId: writing-zh-tw
+    name: 寫作桌
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: writing-zh-tw/book.outline.md }
+            - { kind: note, path: writing-zh-tw/style-notes.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: writing-zh-tw/the-640-crossing.compilation.yml }
+  - id: project-en-spec
+    notebookId: project-en
+    name: Spec review
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: project-en/product-overview.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: project-en/spec-pickup-flow.md }
+            - { kind: note, path: project-en/data-model.md }
+            - { kind: note, path: project-en/spec-notifications.md }
+  - id: project-zh-tw-spec
+    notebookId: project-zh-tw
+    name: 規格檢視
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: project-zh-tw/product-overview.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: project-zh-tw/spec-pickup-flow.md }
+            - { kind: note, path: project-zh-tw/data-model.md }
+            - { kind: note, path: project-zh-tw/spec-notifications.md }
+  - id: teaching-en-lesson
+    notebookId: teaching-en
+    name: Lesson desk
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: teaching-en/lesson-slides.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: teaching-en/lesson-plan.md }
+            - { kind: note, path: teaching-en/worksheet.md }
+            - { kind: note, path: teaching-en/answer-key.md }
+  - id: teaching-zh-tw-lesson
+    notebookId: teaching-zh-tw
+    name: 備課桌
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: teaching-zh-tw/lesson-slides.md }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: teaching-zh-tw/lesson-plan.md }
+            - { kind: note, path: teaching-zh-tw/worksheet.md }
+            - { kind: note, path: teaching-zh-tw/answer-key.md }
+  - id: designer-en-round1
+    notebookId: designer-en
+    name: Round 1 review
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: designer-en/round-1-marks.compilation.yml }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: designer-en/client-feedback-r1.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: designer-en/round-2-refinement.md }
+  - id: designer-zh-tw-round1
+    notebookId: designer-zh-tw
+    name: 第一輪檢視
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: designer-zh-tw/round-1-marks.compilation.yml }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: designer-zh-tw/client-feedback-r1.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: designer-zh-tw/round-2-refinement.md }
+  - id: portfolio-en-front-door
+    notebookId: portfolio-en
+    name: Front door
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: portfolio-en/selected-work.compilation.yml }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: portfolio-en/case-lamplight-hall.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: portfolio-en/case-twiglog.md }
+  - id: portfolio-zh-tw-front-door
+    notebookId: portfolio-zh-tw
+    name: 作品集首頁
+    root:
+      kind: split
+      id: s1
+      orientation: horizontal
+      children:
+        - kind: pane
+          id: p1
+          tabs:
+            - { kind: note, path: portfolio-zh-tw/selected-work.compilation.yml }
+        - kind: pane
+          id: p2
+          tabs:
+            - { kind: note, path: portfolio-zh-tw/case-lamplight-hall.md }
+        - kind: pane
+          id: p3
+          tabs:
+            - { kind: note, path: portfolio-zh-tw/case-twiglog.md }

@@ -9,7 +9,7 @@ This notebook is a Game Master's prep for a one-shot of *Call of Cthulhu* (7th e
 
 ## What to try
 
-1. **Open the Focus.** Use the Focus menu in the Notes toolbar and pick **Session table**. The outline, the NPC sheets, the handouts and the map open side by side, the way you would lay them out on the table.
+1. **Open the Focus.** The notebook opens in the **Session table** Focus (the Focus menu in the Notes toolbar lists it): the outline, the NPC sheets and the map side by side, with the handouts one tab over, the way you would lay them out on the table.
 2. **Switch to the Kanban view.** The clue notes move through the columns *hidden → revealed → resolved*. Change a clue's status from the dot beside its title and watch the board update.
 3. **Look at the characters.** [Ambrose Vale](npc-ambrose-vale.md) and [Marta Quill](npc-marta-quill.md) use the `coc-stat` block, a stat sheet that renders from a few attributes.
 4. **Read the props.** [Handouts](handouts.md) holds three documents you can show the players. The *Editor note* on each one is for you only.

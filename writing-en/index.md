@@ -11,12 +11,13 @@ This notebook is how the book is kept: an outline that ties the chapters togethe
 
 ## What to try
 
-1. **Read the book.** Open the compilation *The 6:40 Crossing (book)* under *Compilations*. It is an ordered set of chapters shown as a book with a contents list; switch between reading as one long scroll and one chapter at a time.
-2. **Work from the outline.** Open [Book outline](book.outline.md). Each chapter is a link with a note under it about what the chapter must do. Press Tab on an item to nest it, or drag a chapter up or down to reorder.
-3. **Follow the status.** Chapters move from *idea* to *drafting* to *revising* to *final*. Change one from the status dot.
-4. **Check the style notes.** [Style notes](style-notes.md) is the author's reminder of voice and rules.
-5. **See the timetable in numbers.** [Chapter 3](chapters/03-winter-timetable.md) has a `bars` chart of crossings a day and the two key numbers behind the argument; the annual figure is still marked for checking.
-6. **Edit freely.** This is a demo copy: your changes stay in your browser for 24 hours and never reach anyone else.
+1. **Start at the drafting desk.** The notebook opens in the **Drafting desk** Focus: the [book outline](book.outline.md) on the left and the book itself on the right, with the [style notes](style-notes.md) one tab over. The Focus menu in the Notes toolbar switches back to the plain list.
+2. **Read the book.** Open the compilation *The 6:40 Crossing (book)* under *Compilations*. It is an ordered set of chapters shown as a book with a contents list; switch between reading as one long scroll and one chapter at a time.
+3. **Work from the outline.** Open [Book outline](book.outline.md). Each chapter is a link with a note under it about what the chapter must do. Press Tab on an item to nest it, or drag a chapter up or down to reorder.
+4. **Follow the status.** Chapters move from *idea* to *drafting* to *revising* to *final*. Change one from the status dot.
+5. **Check the style notes.** [Style notes](style-notes.md) is the author's reminder of voice and rules.
+6. **See the timetable in numbers.** [Chapter 3](chapters/03-winter-timetable.md) has a `bars` chart of crossings a day and the two key numbers behind the argument; the annual figure is still marked for checking.
+7. **Edit freely.** This is a demo copy: your changes stay in your browser for 24 hours and never reach anyone else.
 
 ## Notes
 

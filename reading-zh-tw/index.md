@@ -9,12 +9,13 @@ status: 已完成
 
 ## 可以試試
 
-1. **看一段雙語引文。** [傷害原則](quote-harm-principle.md)和[我思](quote-cogito.md)用了 `parallel-quote` 指令：原文和譯文放在同一個區塊，可以按開關把原文收起來。
-2. **順著論證走。** [傷害原則的論證](argument-harm-principle.md)和[為什麼不能封殺意見](argument-silencing.md)列出前提與結論，並連回支持它們的引文。
-3. **查來源。** [書目](bibliography.md)用 `embed-card` 區塊，一個來源一張卡，附上我讀的版本。
-4. **沿著連結走。** [懷疑與異議](doubt-and-dissent.md)把兩位作者接在一起。打開圖譜，看這些筆記怎麼連在一起。
-5. **把論證讀成地圖。** [傷害原則的論證](argument-harm-principle.md)和[懷疑與異議](doubt-and-dissent.md)各有一張 `argument-map`：理由支持結論，反對意見提出質疑，對反對意見的回應則削弱它。其中一個反對意見標成未決。
-6. **隨便改。** 這是示範用的副本，你的修改只留在這個瀏覽器 24 小時，不會影響任何人。
+1. **從閱讀桌開始。** 筆記本一打開就是「閱讀桌」這個 Focus：引文、據此寫成的論證，以及比較兩位作者的筆記和[書目](bibliography.md)排成三欄，其他筆記在各欄的分頁。「筆記」頁工具列的 Focus 選單可以切回一般清單。
+2. **看一段雙語引文。** [傷害原則](quote-harm-principle.md)和[我思](quote-cogito.md)用了 `parallel-quote` 指令：原文和譯文放在同一個區塊，可以按開關把原文收起來。
+3. **順著論證走。** [傷害原則的論證](argument-harm-principle.md)和[為什麼不能封殺意見](argument-silencing.md)列出前提與結論，並連回支持它們的引文。
+4. **查來源。** [書目](bibliography.md)用 `embed-card` 區塊，一個來源一張卡，附上我讀的版本。
+5. **沿著連結走。** [懷疑與異議](doubt-and-dissent.md)把兩位作者接在一起。打開圖譜，看這些筆記怎麼連在一起。
+6. **把論證讀成地圖。** [傷害原則的論證](argument-harm-principle.md)和[懷疑與異議](doubt-and-dissent.md)各有一張 `argument-map`：理由支持結論，反對意見提出質疑，對反對意見的回應則削弱它。其中一個反對意見標成未決。
+7. **隨便改。** 這是示範用的副本，你的修改只留在這個瀏覽器 24 小時，不會影響任何人。
 
 ## 筆記對照
 

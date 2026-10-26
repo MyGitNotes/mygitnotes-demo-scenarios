@@ -9,12 +9,13 @@ Tallowfield Bakery Group is about to sign a two-year freight agreement with Lark
 
 ## What to try
 
-1. **Open the history.** Open [the agreement](services-agreement.md) in zoom, show the document panel at the top right and pick the History (clock) tab. You will find three named versions, **v1**, **v2** and **v3**, each recorded in its own commit with a message that says what changed and why.
-2. **Compare v2 and v3.** Click a version, then Compare, and choose another one to see the clause-by-clause diff. Section 4 changes the most.
-3. **Read the reviewer's remarks.** Aside boxes titled *Reviewer* are `comment` directives. They show why a clause was changed, and which remarks are still open.
-4. **Check the summary.** [Clause changes](clause-changes.md) lists every change across the three versions in one table.
-5. **Read the cap as numbers, then as an argument.** [Clause changes](clause-changes.md) shows the liability cap in v1, v2 and v3 as three key numbers, and the [negotiation log](negotiation-log.md) draws the dispute over it as an `argument-map` with the open point marked.
-6. **Edit freely.** This is a demo copy: your changes stay in your browser for 24 hours and never reach anyone else.
+1. **Start at the review table.** The notebook opens in the **Review table** Focus: the [agreement](services-agreement.md) beside the [clause changes](clause-changes.md), with the [negotiation log](negotiation-log.md) and the [review checklist](review-checklist.md) one tab over. The Focus menu in the Notes toolbar switches back to the plain list.
+2. **Open the history.** Open [the agreement](services-agreement.md) in zoom, show the document panel at the top right and pick the History (clock) tab. You will find three named versions, **v1**, **v2** and **v3**, each recorded in its own commit with a message that says what changed and why.
+3. **Compare v2 and v3.** Click a version, then Compare, and choose another one to see the clause-by-clause diff. Section 4 changes the most.
+4. **Read the reviewer's remarks.** Aside boxes titled *Reviewer* are `comment` directives. They show why a clause was changed, and which remarks are still open.
+5. **Check the summary.** [Clause changes](clause-changes.md) lists every change across the three versions in one table.
+6. **Read the cap as numbers, then as an argument.** [Clause changes](clause-changes.md) shows the liability cap in v1, v2 and v3 as three key numbers, and the [negotiation log](negotiation-log.md) draws the dispute over it as an `argument-map` with the open point marked.
+7. **Edit freely.** This is a demo copy: your changes stay in your browser for 24 hours and never reach anyone else.
 
 ## Notes in this notebook
 
